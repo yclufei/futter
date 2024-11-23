@@ -1,0 +1,375 @@
+.talkbar
+{
+	position:absolute;
+	padding:2px;
+	width:100%;
+	height:49px;
+	border:0px;
+	background-color:#f0f0f0;
+	border-top:4px solid #eeeeee;
+	z-index:9000; 
+	bottom:0px;   		
+}
+					
+							a.tabbutton
+							{
+								display:inline-block;
+								padding:1px;
+								padding-left:13px;
+								padding-right:13px;
+								margin:2px;
+								margin-bottom:0px;
+							}
+							
+.txtbar
+{
+	padding:4px;
+	width:98%;
+	height:34px;
+	border:0px;
+	background-color:#fefefe;
+}
+
+.round_rect_1
+{
+	margin:10px;
+	
+	padding:6px;
+	display:inline-block;
+	background:	url(ui/images/ar_1_l_t.png) top left no-repeat,
+				url(ui/images/ar_1_r_t.png) top right no-repeat,
+				url(ui/images/ar_1_l_b.png) bottom left no-repeat,
+				url(ui/images/ar_1_r_b.png) bottom right no-repeat;
+}
+.round_rect_1_top
+{
+	background:	url(ui/images/ar_1_l_t.png) top left no-repeat, url(ui/images/ar_1_r_t.png) top right no-repeat;
+}
+.round_rect_1_bottom
+{
+	background:	url(ui/images/ar_1_l_b.png) bottom left no-repeat, url(ui/images/ar_1_r_b.png) bottom right no-repeat;
+}
+
+a
+{
+display:inline-block;
+padding:2px;
+color:#333333;	
+}
+
+.mainunderline
+{
+border-bottom:1px solid #cccccc;	
+}
+
+.myinput
+{
+	height:20px;
+	border:1px solid #666666;
+	outline:none;
+	padding:0px;
+}
+a.submenu
+{
+	display:block;
+	width:80%;
+	text-align:right;
+	padding:2px;
+	font-size:16px;
+	padding-right:20px;
+	color:#ffffff;
+	margin-top:3px;
+}
+a.submenu:active
+{
+	color:#333333;
+	background-color:#ffffff;
+}
+.popbg
+{
+	background-image:url(base/images/tt.png);
+	width:100%;
+	height:100%;
+}
+.treechild
+{
+	padding-left:25px;	
+}
+a.linkbutton
+{
+	display:inline-block;
+	padding:2px;
+	padding-left:8px;
+	padding-right:8px;
+	margin-left:2px;
+	margin-right:2px;
+	background-color:#777777;
+	color:#ffffff;
+	height:20px;
+	font-size:14px;
+}
+.submenuleft
+{
+	color:#ffffff;
+	padding:2px;
+	font-size:14px;
+	margin-top:3px;
+}
+.submenuleft div
+{
+	color:#ffffff;
+}
+.submenuleft div a
+{
+	color:#ffffff;
+}
+a.submenuleft
+{
+	height:24px;
+	display:table-row;
+	padding:2px;
+	font-size:14px;
+	margin-top:3px;
+}
+a.submenuleft:active
+{
+	color:#ffffff;
+	background-color:#ffffff;
+}
+
+.frame
+{
+	display:block;
+	width:100%;
+	height:100%;
+	position:relative;
+	background-color:#EAF3EA;
+}
+
+.btursselect
+{
+	margin:1px;
+	padding:5px;color:#ffffff;
+	background-color:#333333;
+	width:100%;
+	display:block;
+}
+
+							
+.subarea
+{
+display:none;	
+}
+
+a 
+{
+	color:#4D5254;
+	text-decoration:none ;
+	font-size:14px;
+	padding:3px;
+}
+
+.navMenuImgItem
+{
+	width:100%;
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:14px;
+	width:14%;
+	padding-top:12px;
+	display:none;
+}
+
+.mainmenu
+{
+	width:100%;
+	z-index:100;
+}
+a.mainMenuItem
+{
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	color:#ffffff;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:16px;
+}
+a.navMenuItem
+{
+	width:21%;
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	color:#ffffff;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:14px;
+}
+
+
+.BgMain
+{
+	background-color:#7C8578;
+}
+
+
+
+.nav
+{
+	background-color:#7C8578;
+	width:100%;
+	height:40px;
+}
+.navtitle
+{
+font-size:14px;
+color:#f5f5f5;
+display:inline-block;
+padding:8px;
+}
+
+
+.content
+{
+	background-image:url(jiakao/public/images/sh_top.png);
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	background-color:#F9FeFc;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+.content_transfer
+{
+	color:#ffffff;
+	background-image:url(jiakao/public/images/sh_top.png);
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+	
+.ScrollViewParent
+{
+	overflow:visible;
+	height:100%;
+}
+
+.mydiv { 
+	width:200px;height:200px;margin:20px;
+background: url(jiakao/public/images/middle_0.png) top left no-repeat, 
+url(jiakao/public/images/middle_0.png) bottom left no-repeat, 
+url(jiakao/public/images/middle_0.png) center center repeat-y; 
+}
+
+.fanzhuan
+{
+-webkit-transform:scaleY(-1);	
+}
+
+.round1
+{
+	width:200px;
+	height:200px;
+	margin:20px;	
+	background: 
+	url(jiakao/public/images/bg_10_top_left.png) top left no-repeat, 
+	url(jiakao/public/images/round_1_rt.png) top right no-repeat, 	
+	
+	url(jiakao/public/images/round_1_rl.png) bottom left no-repeat, 
+	url(jiakao/public/images/round_1_rb.png) bottom right no-repeat, 
+		
+	url(jiakao/public/images/acnl.png) center left repeat-y, 
+	url(jiakao/public/images/acnr.png) center right repeat-y,	
+	
+	url(jiakao/public/images/acnt.png) top center repeat-x, 
+	url(jiakao/public/images/acnb.png) bottom center repeat-x;
+}
+
+
+.mulbackground_a
+{
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	background:	url(base/images/cor_1_a.png) top left no-repeat,
+													url(base/images/cor_2_a.png) top right no-repeat,
+													url(base/images/cor_3_a.png) bottom left no-repeat,
+													url(base/images/cor_4_a.png) bottom right no-repeat,
+													url(/base/images/black.gif) bottom repeat-x,
+													url(/base/images/black.gif) top repeat-x,
+													url(/base/images/black.gif) left repeat-y,
+													url(/base/images/black.gif) right repeat-y;
+}
+
+.mulbackground_b
+{
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	background:	url(base/images/cor_1_b.png) top left no-repeat,
+													url(base/images/cor_2_b.png) top right no-repeat,
+													url(base/images/cor_3_b.png) bottom left no-repeat,
+													url(base/images/cor_4_b.png) bottom right no-repeat,
+													url(/base/images/black.gif) bottom repeat-x,
+													url(/base/images/black.gif) top repeat-x,
+													url(/base/images/black.gif) left repeat-y,
+													url(/base/images/black.gif) right repeat-y;
+}
+
+input
+{
+	background-color:#aaaaaa;
+	color:#333333;
+	outline:0;
+	border:0px;
+	
+}
+.mulinput
+{
+	width:100%;
+	height:100%;
+	background-color:#aaaaaa;
+	color:#333333;
+	outline-color:#f6f6f6;
+	
+}
+.mulinput[readonly="readonly"]
+{
+	outline:none;
+	width:100%;
+	border:0px;
+	background-color:#f6f6f6;
+	color:#333333;
+	height:100%;
+	padding:3px;
+	outline-color:#f6f6f6;
+}
+
+
+
+.commonInput
+{
+	outline:none;
+	border:0px;
+	background-color:#f6f6f6;
+	color:#333333;
+	padding:5px;
+	border-bottom:1px solid #cccccc;
+}
+
+.round_button_green
+{
+	background:url(base/images/bt_1_1_green.png) left no-repeat,
+							url(base/images/bt_1_3_green.png) right repeat-y,
+							url(base/images/bt_1_2.png) center repeat-x;		
+	color:#ffffff;
+	font-size:25px;	
+	text-align:center;	
+	padding-top:8px;						
+}

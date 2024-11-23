@@ -1,0 +1,187 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<base href="D:/GOA/res/">
+		<link href="manager/small/html/main.css" rel="" type="text/css">
+	</head>
+	<body>
+		<div id="objectdescaddFrame" class="posA box100p BgF5 ofHidden">
+			
+							<style>
+								.attritemdiv
+								{
+									margin-bottom:10px;	
+								}
+							</style>
+							
+							
+			<div id="subnav" class="nav">
+				<div class="navtitle">对象</div>
+				<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+			</div>
+			
+			
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						<td height="30" bgcolor="#dddddd">
+							&#160;&#160;添加<a href="#" id="addobjtitle"></a>对象 objectdescadd			
+						</td>
+						<td align="right" bgcolor="#dddddd">
+							<a href="#" id="jumpback2" class="linkbutton">取消</a>		
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" bgcolor="#f6f6f6" colspan="2" id="objectdesc_add">
+							
+							<div style="overflow:scroll;position:absolute;bottom:0px;top:30px;width:99%;background-color:#f6f6f6;">
+							
+								<table cellpadding="0" cellspacing="3" border="0" width="90%" align="center" bgcolor="#f6f6f6">					
+									<tr>
+										<td>
+											
+											
+													<table width="99%" cellpadding="0" cellspacing="0" border="0">					
+														<tr valign="top">
+															<td width="80" align="right" name="title" id="title" style="padding-top:3px;">
+																创建时间：
+															</td>
+															<td>
+												<div class="mulbackground_b" style="display:inline-block;width:100%;padding:4px;" nowrap="nowrap">
+																<input id="create_time" type="text" value="2015" placeholder="" class="mulinput" style="width:100%">									
+												</div>
+															</td>
+														</tr>
+													</table>	
+												
+										</td>
+									</tr>
+									<tr>
+										<td>
+										
+													<table width="99%" cellpadding="0" cellspacing="0" border="0">					
+														<tr valign="top">
+															<td width="80" align="right" name="title" id="title" style="padding-top:3px;">
+																对象名称：
+															</td>
+															<td>
+												<div class="mulbackground_b" style="display:inline-block;width:100%;padding:4px;" nowrap="nowrap">
+																<input id="objectname" type="text" value="" placeholder="" class="mulinput" style="width:100%">							
+												</div>
+															</td>
+														</tr>
+													</table>			
+												
+										
+										</td>
+									</tr>
+									<tr>
+										<td>
+											
+										
+													<table width="99%" cellpadding="0" cellspacing="0" border="0">					
+														<tr valign="top">
+															<td width="80" align="right" name="title" id="title" style="padding-top:3px;">
+																显示名称：
+															</td>
+															<td>
+												<div class="mulbackground_b" style="display:inline-block;width:100%;padding:4px;" nowrap="nowrap">
+																<input id="objecttitle" type="text" value="" placeholder="" class="mulinput" style="width:100%">							
+												</div>
+															</td>
+														</tr>
+													</table>			
+												
+										</td>
+									</tr>
+									<tr>
+										<td>
+											
+													<table width="99%" cellpadding="0" cellspacing="0" border="0">					
+														<tr valign="top">
+															<td width="80" align="right" name="title" id="title" style="padding-top:3px;">
+																类ID：
+															</td>
+															<td>
+												<div class="mulbackground_b" style="display:inline-block;width:100%;padding:4px;" nowrap="nowrap">
+																<input readonly="readonly" id="myclsid" type="text" value="" placeholder="" class="mulinput" style="width:100%">									
+												</div>
+															</td>
+														</tr>
+													</table>	
+												
+										</td>
+									</tr>
+									<tr>
+										<td id="attrsparent" align="center">属性
+										</td>
+									</tr>
+									<tr>
+										<td id="relsparent" align="center">关联
+										</td>
+									</tr>
+									<tr>
+										<td colspan="2" align="center"><a href="#" id="submitbt" class="linkbutton">添加</a></td>
+									</tr>
+								</table>
+									  	
+						  </div>
+								
+								<div style="display:none">
+									
+									<div id="tmpattrctrl">
+										<table width="99%" cellpadding="0" cellspacing="0" border="0" height="28">					
+											<tr valign="top">
+												<td width="80" align="right" style="padding-top:3px;">
+													<div style="display:inline-block;" name="title" id="title"></div>：
+												</td>
+												<td style="padding-top:3px;">
+													<div class="mulbackground_b" style="display:inline-block;padding:4px;width:70%;height:23px;">						
+														<input id="value" type="text" style="padding-botom:3px;" placeholder="" class="mulinput">
+													</div>	
+													<input type="hidden" id="id">
+													<input type="hidden" id="clsid">
+													<input type="hidden" id="valuetype">
+													<input type="hidden" id="length">									
+													<input type="hidden" id="otitle">
+													<input type="hidden" id="name">
+									  		
+												</td>
+											</tr>
+										</table>	
+										
+							
+									</div>
+									
+									<div id="tmprelctrl">
+										<table width="99%" cellpadding="0" cellspacing="0" border="0" height="28">					
+											<tr valign="top">
+												<td width="80" align="right" style="padding-top:3px;">
+													<div style="display:inline-block;" name="relationname" id="relationname"></div>：
+												</td>
+												<td style="padding-top:3px;">
+													<div class="mulbackground_b" style="display:inline-block;padding:4px;width:70%;height:23px;">						
+														<input id="value" type="text" style="padding-botom:3px;" placeholder="" class="mulinput">
+													</div>	
+													<input id="id" type="text">
+													<input id="clsid" type="text">
+													<input id="reltype" type="text">
+													<input id="relsubtype" type="text">
+													<input id="relrelationname" type="text">
+													<input id="title" type="text">
+													<input id="selectobjecttitle" type="text">
+													<input id="selectparent_id" type="text">
+									  		
+												</td>
+											</tr>
+										</table>							
+									</div>	
+							  						  	
+						  	</div>
+						  	
+						</td>
+					</tr>
+				</table>
+				
+		</div>
+	</body>
+</html>

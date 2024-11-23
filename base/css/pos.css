@@ -1,0 +1,118 @@
+
+.posA
+{
+	position:absolute;
+}
+
+
+.posR
+{
+	position:relative;
+}
+
+.posF
+{
+	position:fixed;
+}
+
+
+.posS
+{
+	position:static;
+}
+
+
+.floatL
+{
+	float:left;	
+}
+
+.floatR
+{
+	float:right;	
+}
+
+.floatC
+{
+	float:center;	
+}
+
+.c
+{
+	text-align:center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.cc
+{
+	text-align:center	
+}
+
+.l
+{
+	text-align:left	
+}
+
+.r
+{
+	text-align:right	
+}
+
+.inlineb
+{
+	display:inline-block;	
+}
+
+.textborder
+{
+	border:1px solid #ff0000;
+}
+
+.valigntop
+{
+	vertical-align:top;	
+}
+
+
+.zdx2
+{
+z-index:2;	
+}
+.zdx3
+{
+z-index:3;	
+}
+.zdx4
+{
+z-index:4;	
+}
+.zdx5
+{
+z-index:5;	
+}
+.zdx6
+{
+z-index:6;	
+}
+.zdx7
+{
+z-index:7;	
+}
+.zdx8
+{
+z-index:8;	
+}
+.zdxtop
+{
+z-index:10000;	
+}
+
+.left0
+{
+	left:0px;	
+}
+.top0
+{
+	top:0px;	
+}

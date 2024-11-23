@@ -1,0 +1,124 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<base href="D:/GOA/res/">
+<link href="manager/small/html/main.css" rel="" type="text/css">
+</head>
+<body>
+	<div id="treelistFrame" class="posA box100p BgF5 ofHidden">
+		
+		<div id="subnav" class="nav">
+			<div class="navtitle">list</div>
+			<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+		</div>
+		
+		<div id="treelistcontent" class="frame">
+		
+			<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#dddddd">
+				<tr>
+					<td height="30">
+						<a id="navtitle"></a>子节点 treelist
+					</td>
+					<td align="right">
+						<a href="#" id="jumptreeaddFrame" class="linkbutton">添加</a>	
+						<a href="#" id="jumpback2" class="linkbutton">完成</a>			
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" height="40%" bgcolor="#f6f6f6" colspan="2" id="tree_list">
+							
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="display:none">
+							<tbody id="hiddenparent">
+								<tr class="item" id="inititem" align="center" bgcolor="#f9f9f9">
+									<td id="id"></td>
+									<td id="sitemtypestr"> </td>
+									<td id="sitemsubtypestr"> </td>
+									<td id="sort"> </td>
+									<td id="parent_id"> </td>
+									<td id="title"> </td>
+									<td id="name"> </td>
+									<td>
+										<a href="#" id="deletebt" class="linkbutton">删除</a>
+										<a href="#" id="updatebt" class="linkbutton">修改</a>
+										<a href="#" id="childbt" class="linkbutton">子节点</a>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						
+									
+									<div class="scrollparent" id="scrolllist">
+										<span class="scrollchild posR width100p">
+											<div class="scrollcontent posR width100p">
+												
+												<table cellpadding="3" cellspacing="1" bgcolor="#cccccc" border="0" width="100%">
+													<tbody id="sbwhlist">
+														<tr bgcolor="#eeeeee">
+															<th> ID </th>
+															<th> 类别 </th>
+															<th> 子类别 </th>
+															<th> 排序 </th>
+															<th> 父节点 </th>
+															<th> 显示名称 </th>
+															<th> 名称 </th>
+															<th> 操作 </th>
+														</tr>
+													</tbody>
+												</table>
+												
+											</div>
+										</span>
+									</div>
+									
+					</td>
+				</tr>
+				<tr>
+					<td height="30">
+						&#160;&#160;对象列表
+					</td>
+					<td align="right">
+						<a href="#" id="jumpobjectdescaddFrame" class="linkbutton">添加</a>	
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" height="95%" bgcolor="#f6f6f6" colspan="2" id="objectdesc_list">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="display:none">
+							<tbody id="hiddenparent">
+								<tr class="item" id="inititem" align="center" bgcolor="#f9f9f9">
+									<td id="id"></td>
+									<td id="objecttitle"> </td>
+									<td id="objectname"> </td>
+									<td id="create_time"> </td>
+									<td id="clsidstr"> </td>
+									<td>
+										<a href="#" id="deletebt" class="linkbutton">删除</a>
+										<a href="#" id="detailbt" class="linkbutton">详情</a>
+										<a href="#" id="updatebt" class="linkbutton">修改</a>
+									</td>
+								</tr>
+							</tobdy>
+						</table>
+						<div class="scrollparent" id="scrolllist">
+							<span class="scrollchild posR width100p" style="width:100%;height:100%;">
+									<table cellpadding="3" cellspacing="1" bgcolor="#cccccc" border="0" width="100%">
+										<tbody id="sbwhlist">
+											<tr bgcolor="#eeeeee">
+												<th> id </th>
+												<th> 显示名称 </th>
+												<th> 对象名称 </th>
+												<th> 创建时间 </th>
+												<th> 类ID </th>															
+												<th> 操作 </th>
+											</tr>
+										</tbody>
+									</table>		
+							</span>
+						</div>
+					</td>
+				</tr>
+			</table>
+			
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,216 @@
+<html>
+<body>
+	
+	<div id="datasetareaArea" class="stt_"><div class="box100p" id="objectlistarea">
+		<div class="posR box100p ofScroll" id="scrolllist"><div class="posA width100p" id="scrollTable">
+			<div class="font28 padding10">
+			参数集 ParameterSet
+			</div>
+			
+			
+			<div class="padding10">
+				<div class="font24 paddingTB10 fablock fa3">
+					automation.ParameterSet()
+				</div>				
+				离散随机采样的超参数对象。
+				<br>
+				均匀的采样值形成参数的离散选项（组合）列表。
+				<div class="color3 paddingTB5">
+					参数
+				</div>	
+				
+				<div class="width50p block box">
+					<div class="boxf1">parameter_combinations</div>			
+					<div class="boxf1">（list ）</div>			
+					<div class="boxf1">有效参数组合的列表/元组。</div>			
+				</div>
+				
+				<a class="mainMenuItem3 floatR">执行</a>
+				
+			</div>
+
+			<div class="padding10">
+
+
+				<div class="font24 paddingTB10 fablock fa3">
+					ParameterSet.from_dict
+				</div>
+
+				<div class="color3 paddingTB5">
+				class method from_dict(a_dict)
+				</div>
+
+				从 dict 表示形式构造 Parameter 对象（从 dict 反序列化）。
+				Construct Parameter object from a dict representation (deserialize from dict).
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				Parameter
+
+				<div class="color3 paddingTB5">
+				返回
+				</div>
+
+				Parameter 对象。
+
+				<div class="color3 paddingTB5">
+				参数
+				</div>
+
+				<div class="width80p box">
+					<div class="boxf1">a_dict</div>			
+					<div class="boxf1">（Mapping [ str *, * str ]）</div>			
+					<div class="boxf1"> </div>			
+				</div>
+				
+			</div>
+			
+			
+			<div class="padding10">
+
+				<div class="font24 paddingTB10 fablock fa3">
+					get_random_seed
+				</div>
+
+				<div class="color3 paddingTB5">
+				static get_random_seed()
+				</div>
+
+				获取所有超参数策略随机数采样的全局种子。
+				Get the global seed for all hyperparameter strategy random number sampling.
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				int
+
+				<div class="color3 paddingTB5">
+				返回
+				</div>
+
+				随机种子。
+				
+			</div>
+			<div class="padding10">
+
+
+				<div class="font24 paddingTB10 fablock fa3">
+					get_value
+				</div>
+				
+				<div class="color3 paddingTB5">
+				get_value()
+				</div>
+
+				从有效值列表中返回均匀采样的值。
+				Return uniformly sampled value from the valid list of values.
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				Mapping[str, Any]
+
+				<div class="color3 paddingTB5">
+				返回
+				</div>
+
+				{self.name: random entry from self.value}
+
+
+
+			</div>
+			<div class="padding10">
+
+
+				<div class="font24 paddingTB10 fablock fa3">
+					set_random_seed
+				</div>
+
+				<div class="color3 paddingTB5">
+				static set_random_seed(seed=1337)
+				</div>
+
+				为所有超参数策略随机数抽样设置全局种子。
+				Set global seed for all hyperparameter strategy random number sampling.
+
+				<div class="color3 paddingTB5">
+				参数
+				</div>
+
+				seed (int ) – The random seed.
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				()
+
+
+
+			</div>
+			<div class="padding10">
+
+
+				<div class="font24 paddingTB10 fablock fa3">
+					to_dict
+				</div>
+				
+				<div class="color3 paddingTB5">
+				to_dict()
+				</div>
+
+				返回 Parameter 对象的 dict 表示形式。用于 Parameter 对象的序列化。
+				Return a dict representation of the Parameter object. Used for serialization of the Parameter object.
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				Mapping[str, [, UnionstrParameter]]
+
+				<div class="color3 paddingTB5">
+				返回
+				</div>
+
+				对象的 dict 表示形式（序列化）。
+			
+			</div>
+			
+			<div class="padding10">
+				
+				<div class="font24 paddingTB10 fablock fa3">
+					to_list
+				</div>
+
+				<div class="color3 paddingTB5">
+				to_list()
+				</div>
+
+				返回 Parameter 的所有有效值的列表。
+				Return a list of all the valid values of the Parameter.
+
+				<div class="color3 paddingTB5">
+				返回类型
+				</div>
+
+				Sequence[Mapping[str, Any]]
+
+				<div class="color3 paddingTB5">
+				返回
+				</div>
+
+				字典列表{name: value}
+				
+			</div>
+
+
+
+		</div></div>
+	</div></div>
+
+</body>
+</html>

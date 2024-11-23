@@ -1,0 +1,4 @@
+
+
+gModule['user'] = {}
+

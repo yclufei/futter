@@ -1,0 +1,123 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<base href="D:/GOA/res/">
+<link href="trafficweb/small/client/html/main.css" rel="" type="text/css">
+</head>
+<body>
+	<div id="templete_objectFrame" class="frame">
+		
+	<div id="subnav" class="height76 width100p BgFC0">
+		<div style="position:absolute;width:100%;font-size:25px;text-align:center;padding-top:16px;">对象</div>
+		<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+	</div>
+	
+				<!-#include file="base/small/area/html/subnavarea.html"-> 
+        
+		
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#dddddd">
+		<tr>
+			<td valign="top" height="100" bgcolor="#f6f6f6" id="objectattr_list">
+
+					<table cellpadding="4" cellspacing="0" border="0" id="objectdesc_update">				
+						<tr>
+							<td align="right">ID</td><td><input id="id" readonly="readonly" type="text" readonly="true" value="parent_id"></td>
+						</tr>
+						<tr>
+							<td align="right">显示名称</td><td><input id="objecttitle" type="text" value="title"></td>
+						</tr>
+						<tr>
+							<td width="100" align="right"> 创建时间</td><td> <input readonly="readonly" id="create_time" type="text" value="itemtype"></td>
+						</tr>
+						<tr>
+							<td align="right">对象名称</td><td><input id="objectname" type="text" value="sort"></td>
+						</tr>		
+						<tr>
+							<td align="right">类ID</td><td><input readonly="readonly" id="clsid" type="text" value="name"></td>
+						</tr>
+					</table>
+
+			</td>
+		</tr>
+			<tr>
+				<td id="objectdescupdatecontent">
+
+						
+											
+					<div class="scrollparent" id="scrolllist" style="width:100%;height:100%;overflow:auto;position:relative;">
+						<span class="scrollchild posR width100p" style="width:100%;height:100%;">
+								
+							<table style="display:none">base small html object.html
+								<tr class="item" id="inititem" align="center" bgcolor="#f9f9f9">
+									<td><div id="title">1 </div></td>
+									<td><div id="name"> </div></td>
+									<td><input type="text" id="value"></td>									
+								</tr>
+							</table>
+
+							<table cellpadding="3" cellspacing="1" bgcolor="#cccccc" border="0" width="100%">
+								<tbody id="sbwhlist">
+									<div id="nocontent" style="display:none" class="oncontent font30">暂无内容</div>
+								</tbody>
+							</table>
+												
+						</span>
+					</div>
+					
+				</td>
+			</tr>
+			<tr>
+				<td id="objectrelationlistarea">
+
+					<table width="100%">
+						<tr>
+							<td valign="top" bgcolor="#f6f6f6" colspan="2">
+								
+								<div class="scrollparent" id="scrolllist">
+									<span class="scrollchild posR width100p">
+										<div class="scrollcontent posR width100p">								
+											<table cellpadding="3" cellspacing="1" bgcolor="#cccccc" border="0" width="100%">
+												<tbody id="sbwhlist">
+													<tr bgcolor="#eeeeee">
+														<th> ID </th>
+														<th> parentcid </th>
+														<th> childcid </th>
+														<th> parentoid </th>
+														<th> childoid </th>
+														<th> reltype </th>
+														<th> relsubtype </th>
+													</tr>
+												</tbody>
+											</table>								
+										</div>
+									</span>
+								</div>
+										
+								<table width="100%" cellpadding="0" cellspacing="0" border="0" style="display:none">
+									<tbody id="hiddenparent">
+										<tr class="item" id="inititem" align="center" bgcolor="#f9f9f9">
+											<td id="id">id</td>
+											<td id="parentcid">parentcid</td>
+											<td id="childcid">childcid</td>
+											<td id="parentoid">parentoid</td>
+											<td id="childoid">childoid</td>
+											<td id="reltype">reltype</td>
+											<td id="relsubtype">relsubtype</td>
+										</tr>
+									</tbody>
+								</table>	
+		
+							</td>
+						</tr>
+					</table>	
+				</td>
+			</tr>
+		</table>
+		<div id="subareamainmenu">
+		</div>
+	</div>
+</body>
+</html>
+
+ 
+ 

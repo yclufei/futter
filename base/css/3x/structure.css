@@ -1,0 +1,61 @@
+
+.stt_nav
+{
+	position:absolute;
+	width:100%;
+	height:135px;
+	background-color:#333333;
+}
+.stt_alpha_nav
+{
+	position:absolute;
+	width:100%;
+	height:135px;
+}
+
+
+a.listitemNoNextNoAct
+{
+width:100%;
+display:block;	
+padding-left:36px;
+font-size:39px;
+border-top:1px solid #e7e7e7;
+border-bottom:1px solid #e7e7e7;
+margin-bottom:36px;
+padding:45px;
+}
+
+a.listitemNoNext
+{
+width:100%;
+display:block;	
+padding-left:36px;
+font-size:39px;
+border-top:1px solid #e7e7e7;
+border-bottom:1px solid #e7e7e7;
+margin-bottom:36px;
+padding:45px;
+}
+a.listitemNoNext:active
+{
+background-color:#f0f0f0;
+}
+
+
+a.listitemHasNext
+{
+display:inline-block;
+width:100%;
+border-bottom:1px solid #E1E1E1;
+width:100%;
+font-size:39px;
+padding:51px;
+padding-left:39px;
+background-color:#FAFAFA;
+}
+
+a.listitemHasNext:active
+{
+background-color:#f0f0f0;
+}

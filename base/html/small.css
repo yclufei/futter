@@ -1,0 +1,122 @@
+
+
+p,th,td,div,span,input
+{
+	color:#333333;
+	outline:none;
+	border:0px;
+	word-break:break-all; 
+¡¡word-wrap:break-word;
+}
+
+input
+{
+	color:#333333;
+	outline:none;
+	border:0px;
+}
+
+.divcontent
+{
+	word-break:break-all; 
+¡¡word-wrap:break-word;
+  white-space:pre-wrap; 	
+}
+
+
+a.mainMenuItem3
+{
+	display:inline-block;
+	height:100%;
+	width:32%;
+	padding-top:14px;
+	line-height:100%;
+}
+
+.mainMenuItem3_
+{
+display:inline-block;
+height:100%;
+width:34%;
+}
+
+
+.mainMenuItem4
+{
+	display:inline-block;
+	width:25%;
+	font-size:42px;
+	margin:0px;
+	padding:0px;
+	padding-top:14px;
+	line-height:100%;
+}
+
+.mainMenuItem4 div
+{
+	display:inline-block;
+	font-size:23px;
+	text-indent:11px;
+	letter-spacing:10px;
+	color:#999999;
+}
+
+
+.stt_frame
+{
+	position:absolute;	
+}
+
+.stt_nav
+{
+	position:absolute;
+	width:100%;
+	height:90px;
+	background-color:#333333;
+}
+.stt_alpha_nav
+{
+	position:absolute;
+	width:100%;
+	height:90px;
+}
+
+.stt_bodymiddle
+{
+	position:absolute;
+	width:100%;
+	bottom:99px;
+	top:90px;
+	background-color:#fff;
+}
+
+.stt_bodytop
+{
+	position:absolute;
+	bottom:99px;
+	top:0px;
+	width:100%;
+}
+
+.stt_bodybottom
+{
+	position:absolute;
+	bottom:0px;
+	top:90px;
+	width:100%;
+}
+
+.stt_mainmenu
+{
+	position:absolute;
+	width:100%;
+	height:98px;
+	bottom:0px;
+}
+
+.stt_ge
+{
+border-bottom:1px dotted #cccccc;
+padding:1%;
+width:98%;
+}

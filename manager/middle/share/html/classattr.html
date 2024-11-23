@@ -1,0 +1,130 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<base href="D:/GOA/res/">
+		<link href="manager/small/html/main.css" rel="" type="text/css">
+	</head>
+	<body>
+		
+		<div id="classattrFrame"  class="frame">
+			
+			<div id="subnav" class="nav">
+				<div class="navtitle">类定义</div>
+				<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+			</div>
+		
+			<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#dddddd">
+				<tr>
+					<td valign="top" bgcolor="#f6f6f6"  height="120">
+
+						<table cellpadding="2" cellspacing="3" border="0" id="tree_update" align="center" height="80">
+							<tr style="display:inline-block;">
+								<td align="right"> ID:</td><td> <input id="id" readonly="readonly" style="width:50px" type="text" value="id"></td>
+								<td align="right"> 类别:</td>
+								<td> 
+									
+									
+									<input id="itemtype" name="itemtype" readonly="readonly" style="width:80px" type="text" value="请选择类别">
+									
+								</td>
+								<td align="right"> 子类别:</td>
+								<td>
+									
+									
+									<input id="itemsubtype" name="itemsubtype" readonly="readonly" style="width:80px" type="text" value="请选择子类别">
+									
+								</td>
+								<td align="right">排序:</td><td><input id="sort" style="width:50px" type="text" value="sort"></td>										
+							</tr>
+							<tr style="display:inline-block;">
+								<td align="right">父节点:</td><td><input id="parent_id" style="width:50px" type="text" value="parent_id"></td>
+								<td align="right">显示名称:</td><td><input style="width:100%" id="title" type="text" value="title"></td>
+								<td align="right">名称:</td><td><input style="width:100%" id="name" type="text" value="name"></td>
+							</tr>
+							<tr style="display:block;width:100%">
+								<td colspan="10" align="center"><a href="#" id="submitbt" class="linkbutton">修改</a></td>
+							</tr>
+						</table>					
+												
+					</td>
+				</tr>
+				<tr id="tabbar">
+					<td height="20" bgcolor="#dddddd" class="">
+						
+						
+						<a href="#" id="tab_button_object" class="tabbutton" style="background-color:#999999;color:#ffffff;">
+							对象
+						</a>
+						<a href="#" id="tab_button_attr" class="tabbutton">
+							类定义
+						</a>
+						
+					</td>
+				</tr>
+				<tr>
+					<td height="90%" class="">
+						
+						
+						
+						<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" class="box100p" id="attr_list" style="display:none">
+							<tr>
+								<td height="40%">
+									
+									<!-#include file="manager/middle/area/html/area_attribute_list.html"->
+									
+								</td>										
+							</tr>
+							<tr>
+								<td>
+									
+									<!-#include file="manager/middle/area/html/area_relation_list.html"->
+									
+								</td>										
+							</tr>
+						</table>	
+						
+						<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" id="objectdesc_list">
+							<tr>
+								<td height="30">
+									&#160;&#160;对象列表
+								</td>
+								<td align="right">
+									<a href="#" id="jumpobjectdescaddFrame" class="linkbutton">添加</a>	
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" bgcolor="#f6f6f6" colspan="2">
+									<table width="100%" cellpadding="0" cellspacing="0" border="0" style="display:none">
+										<tbody id="hiddenparent">
+											<tr class="item" id="inititem" bgcolor="#f9f9f9">
+												<td id="id"></td>
+												<td id="objecttitle"> </td>
+												<td id="objectname"> </td>
+												<td id="create_time"> </td>
+												<td id="clsidstr"> </td>
+												<td>
+													<a href="#" id="deletebt" class="linkbutton" style="float:right">删除</a>
+													<a href="#" id="updatebt" class="linkbutton" style="float:right">修改</a>
+												</td>
+											</tr>
+										</tobdy>
+									</table>
+									<div class="scrollparent" id="scrolllist">
+										<span class="scrollchild posR width100p" style="width:100%;height:100%;">
+												<table cellpadding="3" cellspacing="1" bgcolor="#cccccc" border="0" width="100%">
+													<tbody id="sbwhlist">
+													</tbody>
+												</table>		
+										</span>
+									</div>
+								</td>
+							</tr>				
+						</table>
+						
+					</td>
+				</tr>		
+			</table>
+			<div id="subareamainmenu"></div>
+		</div>
+	</body>
+</html>

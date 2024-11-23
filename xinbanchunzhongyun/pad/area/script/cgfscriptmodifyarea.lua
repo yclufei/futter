@@ -1,0 +1,202 @@
+	
+
+-- D:\GOA\reslibrary\templete\res\area\area.pad.lua.xsl
+					
+gr_module("gm_xinbanchunzhongyun")
+
+cgfscriptmodifyareaArea = inherit(GmCtrl.ControlBase):name("cgfscriptmodifyareaArea")
+
+cgfscriptmodifyareaArea.init = function (self,parent,aid)
+
+	local top = self
+	local fid = aid or "cgfscriptmodifyareaArea"
+	GmCtrl.ControlBase.init(self,parent,fid )
+
+
+	
+	
+	
+		-- form.lua.xsl form 87 xinbanchunzhongyun/classdata/cgfscriptpost.xml
+		
+		-- form.lua.xsl form 38
+	self.id = self:get_child('id')
+	self.id:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.group_id = self:get_child('group_id')
+	self.group_id:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.format_id = self:get_child('format_id')
+	self.format_id:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.separator = self:get_child('separator')
+	self.separator:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.separator_list = self:get_child('separator_list')
+	self.separator_list:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.name = self:get_child('name')
+	self.name:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.note = self:get_child('note')
+	self.note:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.thumb_url = self:get_child('thumb_url')
+	self.thumb_url:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.photo_url = self:get_child('photo_url')
+	self.photo_url:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.priority = self:get_child('priority')
+	self.priority:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.tags = self:get_child('tags')
+	self.tags:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.f_id = self:get_child('f_id')
+	self.f_id:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.is_lock = self:get_child('is_lock')
+	self.is_lock:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.margin = self:get_child('margin')
+	self.margin:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.script_type = self:get_child('script_type')
+	self.script_type:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+	
+		-- form.lua.xsl form 38
+	self.global_format = self:get_child('global_format')
+	self.global_format:set_mousedown(function(ctrl)
+		local a,b,c,d = ctrl:get_scroll_pos()
+		ctrl.parent:set_scroll_pos(0,b)
+		print('set_mousedown',a,b,c,d)
+	end)
+		
+	
+	
+		
+	
+	self.sorkey = ''
+
+	self.page = 0
+	
+	self:show_scroll_bar(true)
+		
+
+	
+	
+
+end
+
+
+cgfscriptmodifyareaArea.callback = function(self,key,tb)
+	local attrs = self.mgr:GetAttrs()
+  if tb.act == 'prev' and table.eq(attrs,tb) then		
+		self.mgr:SetPageDirty(true)
+		self:clean()
+		self:init_item_data()
+		self.toploading:set_loading(false)
+		self:updatetick(true)
+		return true
+	else
+		print('cgfscriptmodifyareaArea callback error ',key,tb)
+	end
+end
+
+
+
+cgfscriptmodifyareaArea.set_data = function(self,data)
+	self.data = data
+	
+	if self.cgfscriptpost and self.cgfscriptpost.set_data then
+		self.cgfscriptpost:set_data(data)
+	end			
+		
+	if self.br and self.br.set_data then
+		self.br:set_data(data)
+	end
+		
+	
+	for a,b in pairs(data) do
+		if self[a] ~= nil and self[a].set_text ~= nil then
+			self[a]:set_text(tostring(b))
+		end
+	end
+	
+end
+
+

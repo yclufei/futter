@@ -1,0 +1,623 @@
+.talkbar
+{
+	position:absolute;
+	padding:2px;
+	width:100%;
+	height:49px;
+	border:0px;
+	background-color:#f0f0f0;
+	border-top:4px solid #eeeeee;
+	z-index:9000; 
+	bottom:0px;   		
+}
+
+
+    			.mainLeftMenuTD
+    			{
+						background-image:url(ui/images/img_2.png);
+						background-position:center;
+						background-repeat:no-repeat;
+    			}
+    			
+    			.emptyNavTD
+    			{
+						background-image:url(manager/images/tt.png);
+						background-position:center;
+						background-repeat:no-repeat;
+    			}
+    			.backNavTD
+    			{
+						background-image:url(manager/images/ar_left2.png);
+						background-position:center;
+						background-repeat:no-repeat;
+    			}
+    			.searchNavTD
+    			{
+						background-image:url(manager/images/search.png);
+						background-position:center;
+						background-repeat:no-repeat;
+    			}
+
+.txtbar
+{
+	padding:4px;
+	width:98%;
+	height:34px;
+	border:0px;
+	background-color:#fefefe;
+}
+
+				.mainleftmenu
+				{
+					position:absolute;
+					top:0px;
+					left:0px;
+					z-index:2000;
+					width:100%;
+					height:100%;
+				}
+				.MianLeftMenuItem	
+				{
+						margin:5px;
+						margin-bottom:0px;
+						color:#ffffff;
+						width:80%;
+						font-size:20px;
+						border-bottom:1px solid #333333;
+						padding:15px;
+						text-align:right;
+						padding-right:20px;
+						margin:auto auto;
+				}
+				
+				
+input 
+{
+	height:28px
+	font-size:20px;
+}
+
+.scrollparent
+{
+	position:absolute;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	border:0px solid #cc0000;
+}
+
+.scrollparent_d
+{
+	position:relative;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+}
+
+.scrollchild
+{
+	position:absolute;
+	display:block;
+	width:100%;
+	min-height:100%;
+	vertical-align:top;
+}
+
+.scrollcontent
+{
+	padding-top:108px;
+	padding-bottom:108px;
+	min-height:110%;
+}
+
+.scrollcontent_d
+{
+	margin-left:108px;
+	margin-right:158px;
+}
+.itemparent
+{
+display:block;width:100%;margin-top:8px;
+}
+
+.itemtitle_l
+{
+	width:94%;
+	text-align:left;
+	margin:5px;
+	margin-left:-8px;
+	margin-bottom:1px;
+	overflow:visible;
+	color:#991100;
+}
+
+.itemcontent_l
+{
+	float:right;
+	text-align:right;
+	height:22px;
+	vertical-align:top;
+	padding:2px;
+	padding-right:25px;
+	padding-top:0px;
+	color:#000000;
+	background:url(manager/images/arr_1.png) right no-repeat;
+}
+
+.itemtitle
+{
+	display:inline-block;
+	width:100%;
+	text-align:right;
+	margin:10px;
+	margin-bottom:1px;
+	overflow:visible;
+	color:#991100;
+}
+
+.iteminputtitle
+{
+	display:inline-block;
+	width:90%;
+	text-align:right;
+	margin:25px;
+	margin-bottom:5px;
+	overflow:visible;
+	color:#991100;
+	border:0px solid #cc0000;
+}
+.itemcontent
+{
+	display:inline-block;
+	float-right;
+	text-align:left;
+	width:60%;
+	height:22px;
+	vertical-align:top;
+	margin-left:6px;
+	padding:2px;
+	padding-top:0px;
+	color:#000000;
+}
+.iteminputcontent
+{
+	display:inline-block;
+	float-right;
+	text-align:left;
+	width:75%;
+	height:30px;
+	vertical-align:top;
+	padding:2px;
+	padding-top:0px;
+	overflow:visible;
+	margin-top:-6px;
+}
+
+.myinput
+{
+	height:32px;
+	border:1px solid #333333;
+	outline:none;
+	padding:2px;
+}
+
+textarea
+{
+	font-size:20px;
+}
+ 
+img
+{
+	border:0px;
+}
+
+.mainframe
+{
+	position:absolute;
+	display:block;
+	width:70%;
+	height:50%;
+}
+
+
+a 
+{
+	text-decoration:none ;
+	font-size:20px;
+	padding:3px;
+	color:#333333;
+}
+
+.ScrollViewParent
+{
+	position:relative;
+	overflow:visible;
+	height:100%;
+}
+
+.frame
+{
+	position:absolute;
+	display:block;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+	background-color:#EAFCFD;
+}
+
+				.nav
+				{
+					width:100%;
+					height:72px;
+					background-color:#5AC4CB;
+				}	
+				.nav td
+				{
+					color:#ffffff;
+					font-size:30px;
+				}	
+
+.myitem
+{
+	display:inline-block;
+	width:46%;
+	margin:1px;
+	padding:6px;
+	border:1px solid #991100;
+	background-color:#ffffff;
+}
+
+.myitem div
+{
+	color:#ffffff;
+	font-size:20px;
+}
+
+.round_button_white
+{
+	background:url(manager/images/bt_1_1_white.png) left no-repeat,
+							url(manager/images/bt_1_3_white.png) right repeat-y,
+							url(manager/images/bt_1_2.png) repeat-x;		
+	color:#ffffff;
+	font-size:25px;	
+	text-align:center;
+	padding:6px;
+	padding-left:18px;
+	letter-spacing:13px;
+}
+
+
+
+.round_button_green_w
+{
+	background:url(manager/images/green_w_1.png) top left no-repeat,
+							url(manager/images/green_w_2.png) top right no-repeat,
+							url(manager/images/green_w_3.png) bottom left no-repeat,
+							url(manager/images/green_w_4.png) bottom right no-repeat;		
+	color:#ffffff;
+	font-size:25px;	
+	text-align:center;
+	display: table-cell;
+	vertical-align: middle;
+	background-color:#991100;
+}
+
+.myitem2
+{
+	display:inline-block;
+	width:22%;
+	margin:1px;
+	padding:5px;
+	text-align:center;
+	background-color:#ffffff;
+	border:1px solid #991100;
+}
+.myitem2 div
+{
+	color:#999999;
+	font-size:20px;
+}
+
+
+.mainmenu
+{
+	width:100%;
+	position:absolute;
+	bottom:0;
+	height:75px;
+	z-index:100;
+	text-align:center;
+	vertical-align:middle;
+	background-color:#ffffff;
+	border-top:2px solid #cccccc;
+	left: 0px;
+	bottom: 0px;
+}
+
+
+.bottomdiv
+{
+	width:100%;
+	position:absolute;
+	bottom:0;
+	height:75px;
+	z-index:100;
+	vertical-align:top;
+	margin-top:-45px;
+	overflow:visible;
+	left: 4px;
+	top: 724px;
+}
+
+.navMenuImgItem
+{
+	position:absolute;
+	display:inline-block;
+	margin:5px;
+	margin-top:12px;
+	margin-left:15px;
+}
+ 
+.mainMenuItem
+{
+	display:inline-block;
+	height:70px;
+	background-repeat:no-repeat;
+	background-position:center -70px;
+	padding-top:40px;
+	color:#999999;
+	font-size:20px;
+	border:0px solid #cc0000;
+	text-align:center;
+	margin:0 auto;
+}
+.mainMenuItem2
+{
+	width:19%;
+	display:inline-block;
+	height:65px;
+	background-repeat:no-repeat;
+	font-size:20px;
+	background-position:center -3px;
+	padding-top:40px;
+	color:#991100;
+	border:0px solid #cc0000;
+	text-align:center;
+	margin:0 auto;
+}
+
+
+a.navMenuItem
+{
+	width:21%;
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:20px;
+}
+
+
+.content
+{
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+
+.content_transfer
+{
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+
+
+.mydiv { 
+	width:200px;height:200px;margin:20px;
+background: url(jiakao/public/images/middle_0.png) top left no-repeat, 
+url(jiakao/public/images/middle_0.png) bottom left no-repeat, 
+url(jiakao/public/images/middle_0.png) center center repeat-y; 
+}
+
+
+.fanzhuan
+{
+-webkit-transform:scaleY(-1);	
+}
+
+.round1
+{
+	width:200px;
+	height:200px;
+	margin:20px;	
+	background: 
+	url(jiakao/public/images/bg_10_top_left.png) top left no-repeat, 
+	url(jiakao/public/images/round_1_rt.png) top right no-repeat, 	
+	
+	url(jiakao/public/images/round_1_rl.png) bottom left no-repeat, 
+	url(jiakao/public/images/round_1_rb.png) bottom right no-repeat, 
+		
+	url(jiakao/public/images/acnl.png) center left repeat-y, 
+	url(jiakao/public/images/acnr.png) center right repeat-y,	
+	
+	url(jiakao/public/images/acnt.png) top center repeat-x, 
+	url(jiakao/public/images/acnb.png) bottom center repeat-x;
+}
+
+.gldiv
+{
+	font-size:25px;
+}
+
+a.listitem
+{
+	margin-top:8px;
+	margin-bottom:8px;
+	width:100%;
+	display:block;
+	padding:10px;	
+	padding-left:28px;	
+	background-color:#ffffff;
+	color:#333333;
+	border-bottom:1px solid #e7e7e7;
+}
+
+.area
+{
+	border-top:1px solid #eeeeee;	
+	border-bottom:1px solid #eeeeee;
+	margin-top:12px;
+	background-color:#fefefe;
+	text-align:left;
+	display:block;
+}
+
+
+.mulbackground_a
+{
+display:inline-block;
+	background:	url(manager/images/cor_1_a.png) top left no-repeat,
+													url(manager/images/cor_2_a.png) top right no-repeat,
+													url(manager/images/cor_3_a.png) bottom left no-repeat,
+													url(manager/images/cor_4_a.png) bottom right no-repeat,
+													url(manager/small/client/html/images/black.gif) bottom repeat-x,
+													url(manager/small/client/html/images/black.gif) top repeat-x,
+													url(manager/small/client/html/images/black.gif) left repeat-y,
+													url(manager/small/client/html/images/black.gif) right repeat-y;
+}
+
+.mulbackground_b
+{
+	display:inline-block;
+	background:	url(manager/images/cor_1_b.png) top left no-repeat,
+				url(manager/images/cor_2_b.png) top right no-repeat,
+				url(manager/images/cor_3_b.png) bottom left no-repeat,
+				url(manager/images/cor_4_b.png) bottom right no-repeat,
+				url(manager/images/black.gif) bottom repeat-x,
+				url(manager/images/black.gif) top repeat-x,
+				url(manager/images/black.gif) left repeat-y,
+				url(manager/images/black.gif) right repeat-y;
+}
+.mulbackground_b_s
+{
+	display:inline-block;
+	background:	url(manager/images/cor_1_s_b.png) top left no-repeat,
+				url(manager/images/cor_2_s_b.png) top right no-repeat,
+				url(manager/images/cor_3_s_b.png) bottom left no-repeat,
+				url(manager/images/cor_4_s_b.png) bottom right no-repeat,
+				url(manager/images/black_s.gif) bottom repeat-x,
+				url(manager/images/black_s.gif) top repeat-x,
+				url(manager/images/black_s.gif) left repeat-y,
+				url(manager/images/black_s.gif) right repeat-y;
+	background-color:#fcfcfc;
+}
+.mulbackground_a_s
+{
+	display:inline-block;
+	background:	url(manager/images/cor_1_s_a.png) top left no-repeat,
+				url(manager/images/cor_2_s_a.png) top right no-repeat,
+				url(manager/images/cor_3_s_a.png) bottom left no-repeat,
+				url(manager/images/cor_4_s_a.png) bottom right no-repeat,
+				url(manager/images/black_s.gif) bottom repeat-x,
+				url(manager/images/black_s.gif) top repeat-x,
+				url(manager/images/black_s.gif) left repeat-y,
+				url(manager/images/black_s.gif) right repeat-y;
+	background-color:#fcfcfc;
+}
+
+.mulinput
+{
+	outline:none;
+	width:100%;
+	border:0px;
+	background-color:#fcfcfc;
+	color:#333333;
+	height:100%;
+	padding:5px;
+	font-size:20px;
+}
+
+.commonInput
+{
+	outline:none;
+	border:0px;
+	background-color:#fcfcfc;
+	color:#333333;
+	height:36px;
+	padding:5px;
+	border-bottom:1px solid #cccccc;
+}
+
+.round_button_green
+{
+	background:url(manager/images/bt_1_1_green.png) left no-repeat,
+							url(manager/images/bt_1_3_green.png) right repeat-y,
+							url(manager/images/bt_1_2.png) center repeat-x;		
+	color:#000000;
+	font-size:25px;	
+	text-align:center;	
+	padding-top:8px;						
+}
+
+
+
+div
+{
+	text-align:left;
+	overflow:hidden;
+	font-size:20px;
+}
+
+body
+{
+overflow:hidden;
+margin:0px;
+padding:0px;
+}
+
+td
+{
+overflow:hidden;
+font-size:20px;
+}
+
+
+object
+{
+border:1px solid #cc0000;
+}
+.navtitle
+{
+font-size:34px;
+color:#333333;
+}
+
+
+
+
+.round_rect_1
+{
+	margin:10px;
+	
+	padding:6px;
+	display:inline-block;
+	background:	url(ui/images/ar_1_l_t.png) top left no-repeat,
+				url(ui/images/ar_1_r_t.png) top right no-repeat,
+				url(ui/images/ar_1_l_b.png) bottom left no-repeat,
+				url(ui/images/ar_1_r_b.png) bottom right no-repeat;
+}
+.round_rect_1_top
+{
+	background:	url(ui/images/ar_1_l_t.png) top left no-repeat, url(ui/images/ar_1_r_t.png) top right no-repeat;
+}
+.round_rect_1_bottom
+{
+	background:	url(ui/images/ar_1_l_b.png) bottom left no-repeat, url(ui/images/ar_1_r_b.png) bottom right no-repeat;
+}
+

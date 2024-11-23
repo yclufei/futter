@@ -1,0 +1,82 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<base href="D:/GOA/res/">
+		<link href="manager/small/html/main.css" rel="" type="text/css">
+	</head>
+	<body>
+		<div id="relationupdateFrame" class="posA box100p BgF5 ofHidden">
+			<div id="subnav" class="nav">
+				<div class="navtitle">更新关联</div>
+				<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+			</div>
+			<div id="relationupdatecontent" class="frame">	   
+				<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#dddddd">
+					<tr>
+						<td height="30">
+							&#160;&#160;关联修改		relationupdate.html	
+						</td>
+						<td align="right">
+							<a href="#" id="jumpback2" class="linkbutton">取消</a>			
+						</td>
+					</tr>
+					<tr>
+						<td valign="top" height="95%" bgcolor="#f6f6f6" colspan="2" id="relation_update">
+							<br/>			
+							
+								
+							<table cellpadding="4" cellspacing="5" border="0" align="center">
+								<tr>
+									<td align="right">关联名称:</td><td><input id="relationname" type="text" value="relationname"></td>
+								</tr>
+								<tr>
+									<td width="50" align="right"> id:</td><td> <input readonly="readonly" id="id" type="text" value="id"></td>
+								</tr>
+								<tr>
+									<td align="right"> parentcid:</td><td> <input readonly="readonly" id="parentcid" type="text" value="parentcid"></td>
+								</tr>					
+								<tr>
+									<td align="right">parentoid:</td><td><input readonly="readonly" id="parentoid" type="text" value="parentoid"></td>
+								</tr>
+								
+								<tr>
+									<td align="right">childcid:</td>
+									<td>
+										<input id="childcid" type="text" value=""/>
+										
+										<select id="ss" style="width:100%;height:25px;border:1px solid #999999">
+											<option id="optionitem" value="-1">&#160</option>
+										</select>
+										
+										
+									</td>
+								</tr>	
+								<tr>
+									<td align="right">childoid:</td><td><input id="childoid" type="text" value="childoid"></td>
+								</tr>
+								<tr>
+									<td align="right">reltype:</td><td>
+									<select id="reltype">
+										<option id="inititem" value="-1">请选择</option>
+									</select>
+									</td>
+								</tr>
+								<tr>
+									<td align="right">relsubtype:</td><td>
+									<select id="relsubtype">
+										<option id="inititem" value="-1">请选择</option>
+									</select>
+									</td>
+								</tr>
+								
+								<tr>
+									<td colspan="2" align="center"><a href="#" id="submitbt" class="linkbutton">更新</a></td>
+								</tr>
+							</table>			
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>

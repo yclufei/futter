@@ -1,0 +1,149 @@
+
+
+
+.marginB126
+{
+	margin-bottom:-126px;
+}
+.marginT126
+{
+	margin-top:-126px;
+}
+.marginL126
+{
+	margin-left:-126px;
+}
+.marginR126
+{
+	margin-right:-126px;
+}
+
+.marginB186
+{
+	margin-bottom:-186px;
+}
+.marginT186
+{
+	margin-top:-186px;
+}
+.marginL186
+{
+	margin-left:-186px;
+}
+.marginR186
+{
+	margin-right:-186px;
+}
+
+.marginB160
+{
+	margin-bottom:-160px;
+}
+.marginT160
+{
+	margin-top:-160px;
+}
+.marginL160
+{
+	margin-left:-160px;
+}
+.marginR160
+{
+	margin-right:-160px;
+}
+
+
+a.listitemHasNextNoAct
+{
+	width:100%;
+	border-bottom:1px solid #E1E1E1;
+	display:block;
+	width:100%;
+	background-color:#FAFAFA;
+	font-size:16px;
+	overflow:hidden;
+}
+
+a.listitemHasNext
+{
+	width:100%;
+	border-bottom:1px solid #E1E1E1;
+	display:block;
+	width:100%;
+	background-color:#FAFAFA;
+	font-size:16px;
+	overflow:hidden;
+}
+a.listitemHasNext:active
+{
+background-color:#f0f0f0;
+}
+
+a.listitemHasNotNext
+{
+	width:100%;
+	border-bottom:1px solid #E1E1E1;
+	display:block;
+	width:100%;
+	background-color:#FAFAFA;
+	margin-bottom:36px;
+	font-size:16px;
+	overflow:hidden;
+}
+a.listitemHasNotNext:active
+{
+background-color:#eeeeee;
+}
+
+
+.head112mask
+{
+background-image:url('base/images/headMask/1x/headMask112.png');	
+}
+
+
+.head60mask
+{
+background-image:url('base/images/headMask/1x/headMask60.png');	
+}
+
+.head68mask
+{
+background-image:url('base/images/headMask/1x/headMask68.png');	
+}
+
+.head112maskgray
+{
+background-image:url('base/images/headMask/1x/headMask112gray.png');	
+}
+
+
+.head60maskgray
+{
+background-image:url('base/images/headMask/1x/headMask60gray.png');	
+}
+
+.head68maskgray
+{
+background-image:url('base/images/headMask/1x/headMask68gray.png');	
+}
+
+.head35maskgray
+{
+background-image:url('base/images/headMask/1x/headMask35gray.png');	
+}
+
+
+.head35mask
+{
+background-image:url('base/images/headMask/1x/headMask35.png');	
+}
+
+.marginleftn100
+{
+	margin-left:-100px;
+}
+.marginleftn120
+{
+	margin-left:-120px;
+}

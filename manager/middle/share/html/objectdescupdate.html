@@ -1,0 +1,92 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<base href="D:/GOA/res/">
+<link href="manager/small/html/main.css" rel="" type="text/css">
+</head>
+<body>
+	<div id="objectdescupdateFrame" class="posA box100p BgF5 ofHidden">
+	<div id="subnav" class="nav">
+		<div class="navtitle">添加对象</div>
+		<img class="navMenuImgItem" src="base/images/ar_left2.png" id="jumpback">
+	</div>
+	
+		
+	<table width="100%" height="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#dddddd">
+		<tr>
+			<td height="30">
+				&#160;&#160;对象 objectdescupdate
+			</td>
+			<td align="right">		
+				<a href="#" id="jumpback2" class="linkbutton">取消</a>	
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" height="100" bgcolor="#f6f6f6" colspan="2">
+
+					<table cellpadding="4" cellspacing="0" border="0" id="objectdesc_update">				
+						<tr>
+							<td align="right">ID</td><td><input id="id" readonly="readonly" type="text" readonly="true" value="parent_id"></td>
+							<td align="right">显示名称</td><td><input id="objecttitle" type="text" value="title"></td>
+						</tr>
+						<tr>
+							<td width="100" align="right"> 创建时间</td><td> <input readonly="readonly" id="create_time" type="text" value="itemtype"></td>
+							<td align="right">对象名称</td><td><input id="objectname" type="text" value="sort"></td>
+						</tr>		
+						<tr>
+							<td align="right">类ID</td><td><input readonly="readonly" id="clsid" type="text" value="name"></td>
+							<td colspan="2" align="center"><a href="#" id="submitbt" class="linkbutton">修改</a></td>
+						</tr>
+					</table>
+
+			</td>
+		</tr>
+		<tr>
+			<td height="30" bgcolor="#dddddd" colspan="2">
+				&#160;&#160;对象属性
+			</td>
+		</tr>
+			<tr>
+				<td id="objectdescupdatecontent" valign="top" colspan="2">
+
+						
+											
+					<div class="scrollparent" id="scrolllist" style="width:100%;height:100%;overflow:auto;position:relative;">
+						<span class="scrollchild posR width100p" style="width:100%;height:100%;">
+								
+							<div style="display:none" id="hiddenparent">
+								<div class="item" id="inititem">
+										<a href="#" id="valuetypestr"></a>
+										<a href="#" id="valueid">1</a>
+										<a href="#" id="attrid">1</a>
+										<a href="#" id="id"> 1</a>
+										<a href="#" id="title">1 </a>
+										<a href="#" id="name"> </a>
+										<a href="#" id="length">1</a>
+										<a href="#" id="clsidstr"> 1</a>
+										<input type="text" id="value">
+										<input type="file" id="filevalue">
+										<img src="" id="imagevalue" height="25">
+										<a href="#" id="updatebt" class="linkbutton">修改</a>
+								</div>
+							</div>
+
+							<div class="box100p" id="sbwhlist">
+							</div>
+												
+						</span>
+					</div>
+					
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<!-#include file="manager/middle/area/html/area_object_relation_list.html"->
+				</td>
+			</tr>
+		</table>
+		<div id="subareamainmenu">
+		</div>
+	</div>
+</body>
+</html>

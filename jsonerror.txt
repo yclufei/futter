@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>山地车额外 - 服务 -  Discuz! Board -  Powered by Discuz!</title>
+<link href="http://192.168.1.105:8080/discuz/upload/forum.php?mod=viewthread&tid=1596" rel="canonical" />
+<meta name="keywords" content="山地车额外" />
+<meta name="description" content="突然还让他很突然回填 山地车额外 ,Discuz! Board" />
+<meta name="generator" content="Discuz! X3.4" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2021 Tencent Cloud." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://192.168.1.105:8080/discuz/upload/" /><link rel="stylesheet" type="text/css" href="project/ruanjianwaibaojiaoyisuo/cache/style_1_common.css?Hf3" /><link rel="stylesheet" type="text/css" href="project/ruanjianwaibaojiaoyisuo/cache/style_1_forum_viewthread.css?Hf3" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common', VERHASH = 'Hf3', charset = 'utf-8', discuz_uid = '80', cookiepre = 'JPLD_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovLzE5Mi4xNjguMS4xMDU6ODA4MC9kaXNjdXovdXBsb2FkL2ZvcnVtLnBocD9tb2Q9dmlld3RocmVhZCZ0aWQ9MTU5NiZwaWQ9MTA4MSZwYWdlPTEmZXh0cmE9', SITEURL = 'http://192.168.1.105:8080/discuz/upload/', JSPATH = 'static/js/', CSSPATH = 'project/ruanjianwaibaojiaoyisuo/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?Hf3" type="text/javascript"></script>
+<meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://192.168.1.105:8080/discuz/upload/portal.php;icon-uri=http://192.168.1.105:8080/discuz/upload/http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://192.168.1.105:8080/discuz/upload/forum.php;icon-uri=http://192.168.1.105:8080/discuz/upload/http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=;action-uri=http://192.168.1.105:8080/discuz/upload/group.php;icon-uri=http://192.168.1.105:8080/discuz/upload/http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/group.ico" /><meta name="msapplication-task" content="name=动态;action-uri=http://192.168.1.105:8080/discuz/upload/home.php;icon-uri=http://192.168.1.105:8080/discuz/upload/http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/home.ico" /><link rel="archives" title="Discuz! Board" href="http://192.168.1.105:8080/discuz/upload/archiver/" />
+<script src="static/js/forum.js?Hf3" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_viewthread" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/');">设为首页</a><a href="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li><a href="home.php?mod=space&amp;do=notice&amp;view=system"><em class="notice_system"></em>系统提醒(<span class="rq">54</span>)</a></li>
+<li><a href="home.php?mod=space&amp;do=notice&amp;view=mypost"><em class="notice_mypost"></em>我的帖子(<span class="rq">28</span>)</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('')" title="默认"><i></i></span><span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="plugin.php?id=xj_event:event_my" title="我的活动情况" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/data/attachment/common/../../../source/plugin/xj_event/images/my_event.png?BZvfov) !important">活动</a></li>
+<li><a href="home.php?mod=magic" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="forum.php?mod=collection&op=my" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/collection_b.png) !important">淘帖</a></li>
+<li><a href="home.php" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/feed_b.png) !important">动态</a></li>
+<li><a href="home.php?mod=space&do=blog" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/blog_b.png) !important">日志</a></li>
+<li><a href="home.php?mod=space&do=album" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/album_b.png) !important">相册</a></li>
+<li><a href="home.php?mod=space&do=share" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/share_b.png) !important">分享</a></li>
+<li><a href="home.php?mod=space&do=doing" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/doing_b.png) !important">记录</a></li>
+<li><a href="home.php?mod=space&do=wall" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/wall_b.png) !important">留言板</a></li>
+<li><a href="home.php?mod=follow" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/follow_b.png) !important">广播</a></li>
+<li><a href="forum.php?mod=guide" style="background-image:url(http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/feed/guide_b.png) !important">导读</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=80"><img src="http://127.0.0.1:8080/uc_server/avatar.php?uid=80&size=small&ts=1" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=80" target="_blank" title="访问我的空间">666666</a></strong>
+<span id="loginstatus">
+<a id="loginstatusid" href="member.php?mod=switchstatus" title="切换在线状态" onclick="ajaxget(this.href, 'loginstatus');return false;" class="xi2"></a>
+</span>
+<span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu new" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒(82)</a><span id="myprompt_check"></span>
+<script language="javascript">delayShow($('myprompt'), function() {showMenu({'ctrlid':'myprompt','duration':3})});</script><span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=1ad38efd">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 66445</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 论坛元老</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(93);})">快捷导航</a>
+<ul><li id="mn_P1" ><a href="http://192.168.1.105:8080/discuz/upload/newchannl/" hidefocus="true"  >新频道</a></li><li id="mn_N6737" ><a href="plugin.php?id=xj_event" hidefocus="true"  >活动中心</a></li><li id="mn_portal" ><a href="portal.php" hidefocus="true" title="Portal"  >门户<span>Portal</span></a></li><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_forum_10" ><a href="forum.php?mod=guide" hidefocus="true" title="Guide"  >导读<span>Guide</span></a></li><li id="mn_home" ><a href="home.php?mod=follow" hidefocus="true" title="Follow"  >广播<span>Follow</span></a></li><li id="mn_home_4" ><a href="home.php" hidefocus="true" title="Space"  >动态<span>Space</span></a></li><li id="mn_forum_11" ><a href="forum.php?mod=collection" hidefocus="true" title="Collection"  >淘帖<span>Collection</span></a></li><li id="mn_home_12" ><a href="home.php?mod=space&do=blog" hidefocus="true" title="Blog"  >日志<span>Blog</span></a></li><li id="mn_home_13" ><a href="home.php?mod=space&do=album" hidefocus="true" title="Album"  >相册<span>Album</span></a></li><li id="mn_home_14" ><a href="home.php?mod=space&do=share" hidefocus="true" title="Share"  >分享<span>Share</span></a></li><li id="mn_home_15" ><a href="home.php?mod=space&do=doing" hidefocus="true" title="Doing"  >记录<span>Doing</span></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li></ul>
+</div>
+<div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="1ad38efd" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="93" />
+<input type="hidden" name="srhlocality" value="forum::viewthread" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=1ad38efd&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=1ad38efd&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=1ad38efd&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="93" >本版</a></li><li><a href="javascript:;" rel="article">文章</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="blog">日志</a></li><li><a href="javascript:;" rel="album">相册</a></li><li><a href="javascript:;" rel="group"></a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+<link rel="stylesheet" type="text/css" href="plugin.php?id=it618_jiaoyi:ajax&it618copyright&ac=getit618style">
+<div id="wp" class="wp">
+<script type="text/javascript">var fid = parseInt('93'), tid = parseInt('1596');</script>
+
+<script src="static/js/forum_viewthread.js?Hf3" type="text/javascript"></script>
+<script type="text/javascript">zoomstatus = parseInt(1);var imagemaxwidth = '600';var aimgcount = new Array();</script>
+
+<style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">Discuz! Board</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=1">软件外包交易所</a> <em>&rsaquo;</em> <a href="forum.php?mod=forumdisplay&amp;fid=93">服务</a> <em>&rsaquo;</em> <a href="forum.php?mod=viewthread&amp;tid=1596">山地车额外</a>
+</div>
+</div>
+
+<style id="diy_style" type="text/css"></style>
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="pgt" class="pgs mbm cl ">
+<div class="pgt"></div>
+<span class="y pgb"><a href="forum.php?mod=forumdisplay&amp;fid=93">返回列表</a></span>
+<a id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=93';return false;" href="javascript:;" title="发新帖"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/pn_post.png" alt="发新帖" /></a><a id="post_reply" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=93&tid=1596')" href="javascript:;" title="回复"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<ul class="p_pop" id="newspecial_menu" style="display: none">
+<li class="trade"><a href="forum.php?mod=post&amp;action=newthread&amp;fid=93&amp;special=2">出售商品</a></li></ul>
+
+
+<div id="postlist" class="pl bm">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls ptn pbn">
+<div class="hm ptn">
+<span class="xg1">查看:</span> <span class="xi1">5</span><span class="pipe">|</span><span class="xg1">回复:</span> <span class="xi1">1</span>
+</div>
+</td>
+<td class="plc ptm pbn vwthd">
+<div class="y">
+<a href="forum.php?mod=viewthread&amp;action=printable&amp;tid=1596" title="打印" target="_blank"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/print.png" alt="打印" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextoldset&amp;tid=1596" title="上一主题"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/thread-prev.png" alt="上一主题" class="vm" /></a>
+<a href="forum.php?mod=redirect&amp;goto=nextnewset&amp;tid=1596" title="下一主题"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/thread-next.png" alt="下一主题" class="vm" /></a>
+</div>
+<h1 class="ts">
+<span id="thread_subject">山地车额外</span>
+</h1>
+<span class="xg1">
+&nbsp;<img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/hot_1.gif" alt="" title="热度: 1" />
+<a href="forum.php?mod=viewthread&amp;tid=1596&amp;fromuid=80" onclick="return copyThreadUrl(this, 'Discuz! Board')" title="您的朋友访问此链接后，您将获得相应的积分奖励">[复制链接]</a>
+</span>
+</td>
+</tr>
+</table>
+
+
+<table cellspacing="0" cellpadding="0" class="ad">
+<tr>
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table><div id="post_698" ><table id="pid698" class="plhin" summary="pid698" cellspacing="0" cellpadding="0">
+<tr>
+ <a name="lastpost"></a><td class="pls" rowspan="2">
+<div id="favatar698" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=31" target="_blank" class="xw1">admin</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_1" id="userinfo698" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo698_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=31" target="_blank" class="xi2">admin</a></strong>
+<em>当前离线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=31&do=profile" target="_blank" class="xi2">1636487</a></dd>
+</dl><div class="imicn">
+<a href="//wpa.qq.com/msgrd?v=3&amp;uin=460717&amp;site=Discuz! Board&amp;menu=yes&amp;from=discuz" target="_blank" title="QQ"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/qq.gif" alt="QQ" /></a><a href="//edit.yahoo.com/config/send_webmesg?.target=jiuh8uh8&amp;.src=pg" target="_blank" title="Yahoo"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/yahoo.gif" alt="Yahoo!"  /></a><a href="javascript:;" onclick="window.open('//amos.im.alisoft.com/msg.aw?v=2&uid='+encodeURIComponent('拉开点距离')+'&site=cntaobao&s=2&charset=utf-8')" title="阿里旺旺"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/taobao.gif" alt="阿里旺旺" /></a><a href="http://www.gxosoft.com" target="_blank" title="查看个人网站"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/forumlink.gif" alt="查看个人网站" /></a><a href="home.php?mod=space&amp;uid=31&amp;do=profile" target="_blank" title="查看详细资料"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo698')"><a href="home.php?mod=space&amp;uid=31" class="avtm" target="_blank"><img src="http://127.0.0.1:8080/uc_server/avatar.php?uid=31&size=middle" /></a></div>
+</div>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=31&do=thread&type=thread&view=me&from=space" class="xi2">177</a></p>主题</th><th><p><a href="home.php?mod=space&uid=31&do=thread&type=reply&view=me&from=space" class="xi2">233</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=31&do=profile" class="xi2"><span title="1636487">163万</span></a></p>积分</td></table></div>
+
+<p><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=1" target="_blank">管理员</a></em></p>
+
+
+<p><span><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/star_level3.gif" alt="Rank: 9" /><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/star_level3.gif" alt="Rank: 9" /><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/star_level1.gif" alt="Rank: 9" /></span></p>
+
+
+
+<dl class="pil cl">
+	<dt>积分</dt><dd><a href="home.php?mod=space&uid=31&do=profile" target="_blank" class="xi2">1636487</a></dd>
+</dl>
+
+<dl class="pil cl"><a href="//wpa.qq.com/msgrd?v=3&uin=460717&site=Discuz! Board&menu=yes&from=discuz" target="_blank" title="发起QQ聊天"><img src="static//image/common/qq_big.gif" alt="QQ" style="margin:0px;"/></a></dl><ul class="xl xl2 o cl">
+<li class="addflw">
+<a href="home.php?mod=spacecp&amp;ac=follow&amp;op=add&amp;hash=1ad38efd&amp;fuid=31" id="followmod_31" title="收听TA" class="xi2" onclick="showWindow('followmod', this.href, 'get', 0);">收听TA</a>
+</li>
+<li class="pm2"><a href="home.php?mod=spacecp&amp;ac=pm&amp;op=showmsg&amp;handlekey=showmsg_31&amp;touid=31&amp;pmid=0&amp;daterange=2&amp;pid=698&amp;tid=1596" onclick="showWindow('sendpm', this.href);" title="发消息" class="xi2">发消息</a></li>
+</ul>
+</div>
+</td>
+<td class="plc">
+<div class="pi">
+<div id="fj" class="y">
+<label class="z">电梯直达</label>
+<input type="text" class="px p_fre z" size="2" onkeyup="$('fj_btn').href='forum.php?mod=redirect&ptid=1596&authorid=0&postno='+this.value" onkeydown="if(event.keyCode==13) {window.location=$('fj_btn').href;return false;}" title="跳转到指定楼层" />
+<a href="javascript:;" id="fj_btn" class="z" title="跳转到指定楼层"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/fj_btn.png" alt="跳转到指定楼层" class="vm" /></a>
+</div>
+<strong>
+<a href="forum.php?mod=viewthread&tid=1596&amp;fromuid=80"  title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum698" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+楼主</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon698" src="static/image/common/online_admin.gif" />
+<em id="authorposton698">发表于 2023-8-28 12:11:00</em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=1596&amp;page=1&amp;authorid=31" rel="nofollow">只看该作者</a>
+<span class="none"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/arw_r.gif" class="vm" alt="回帖奖励" /></span>
+<span class="pipe show">|</span><a href="forum.php?mod=viewthread&amp;tid=1596&amp;extra=&amp;ordertype=1"  class="show">倒序浏览</a>
+<span class="pipe show">|</span><a href="javascript:;" onclick="readmode($('thread_subject').innerHTML, 698);" class="show">阅读模式</a>
+</div>
+</div>
+</div><div class="pct"><style type="text/css">.pcb{margin-right:0}</style><div class="pcb">
+ 
+<div class="typeoption">
+<table summary="分类信息" cellpadding="0" cellspacing="0" class="cgtl mbm">
+<caption>APP开发</caption>
+<tbody><tr>
+<th>周期:</th>
+<td>-</td>
+</tr>
+<tr>
+<th>是否驻场:</th>
+<td> </td>
+</tr>
+<tr>
+<th>地区:</th>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="pcbs">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_698">
+突然还让他很突然回填 </td></tr></table>
+
+<div class="xs1 cl"><div class="trdb">
+<div id="trade699" class="trdl cl">
+<div class="tt" onclick="display('trade699');ajaxget('forum.php?mod=viewthread&do=tradeinfo&tid=1596&pid=699','tradeinfo699','tradeinfo699')">
+<img src="http://192.168.1.105:8080/discuz/upload//project/ruanjianwaibaojiaoyisuo/attachment/forum/202308/28/041129zcbyiz76ii6i787j.png" onclick="zoom(this, 'http://192.168.1.105:8080/discuz/upload//project/ruanjianwaibaojiaoyisuo/attachment/forum/202308/28/041129zcbyiz76ii6i787j.png')" width="90" _width="90" _height="90" alt="胜多负少" />
+</div>
+<div class="ta spi">
+<span class="y"><a href="javascript:;" onclick="display('trade699');ajaxget('forum.php?mod=viewthread&do=tradeinfo&tid=1596&pid=699','tradeinfo699','tradeinfo699')" title="展开"><img src="static/image/common/collapsed_yes.gif" alt="" class="vm" /> 展开</a></span>
+<h4><a href="forum.php?mod=viewthread&amp;do=tradeinfo&amp;tid=1596&amp;pid=699" target="_blank">胜多负少</a></h4>
+
+<dl class="z">
+<dt>商品类型:</dt>
+<dd>
+全新商品
+</dd>
+<dt>剩余时间:</dt>
+<dd>
+<em>成交结束</em>
+</dd>
+</dl>
+<div class="z mtn">
+<strong>22.00</strong>&nbsp;元&nbsp;&nbsp;
+附加 <strong>5</strong>&nbsp;金钱<p class="xg1">
+<del>555.00 元</del>
+<del>附加 555 金钱</del>
+</p>
+</div>
+</div>
+</div>
+<div id="tradeinfo699"></div>
+</div>
+<script type="text/javascript" onload="1">display('trade699');ajaxget('forum.php?mod=viewthread&do=tradeinfo&tid=1596&pid=699','tradeinfo699','tradeinfo699')</script>
+</div>
+
+<div id="postmessage_698"></div>
+
+
+</div>
+<div id="comment_698" class="cm">
+</div>
+
+<div id="post_rate_div_698"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+<div id="p_btn" class="mtw mbm hm cl">
+
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=thread&amp;id=1596&amp;formhash=1ad38efd" id="k_favorite" onclick="showWindow(this.id, this.href, 'get', 0);" onmouseover="this.title = $('favoritenumber').innerHTML + ' 人收藏'" title="收藏本帖"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/fav.gif" alt="收藏" />收藏<span id="favoritenumber" style="display:none">0</span></i></a>
+<a class="followp" href="home.php?mod=spacecp&amp;ac=follow&amp;op=relay&amp;tid=1596&amp;from=forum" onclick="showWindow('relaythread', this.href, 'get', 0);" title="转播求扩散"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/rt.png" alt="转播" />转播</i></a>
+<a class="sharep" href="home.php?mod=spacecp&amp;ac=share&amp;type=thread&amp;id=1596" onclick="showWindow('sharethread', this.href, 'get', 0);" title="分享推精华"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/oshr.png" alt="分享" />分享</i></a>
+<a href="forum.php?mod=collection&amp;action=edit&amp;op=addthread&amp;tid=1596" id="k_collect" onclick="showWindow(this.id, this.href);return false;" onmouseover="this.title = $('collectionnumber').innerHTML + ' 人淘帖'" title="淘好帖进专辑"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/collection.png" alt="分享" />淘帖<span id="collectionnumber" style="display:none">0</span></i></a>
+<a id="recommend_add" href="forum.php?mod=misc&amp;action=recommend&amp;do=add&amp;tid=1596&amp;hash=1ad38efd" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(1)');return false;" onmouseover="this.title = $('recommendv_add').innerHTML + ' 人支持'" title="顶一下"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/rec_add.gif" alt="支持" />支持<span id="recommendv_add" style="display:none">0</span></i></a>
+<a id="recommend_subtract" href="forum.php?mod=misc&amp;action=recommend&amp;do=subtract&amp;tid=1596&amp;hash=1ad38efd" onclick="ajaxmenu(this, 3000, 1, 0, '43', 'recommendupdate(-1)');return false;" onmouseover="this.title = $('recommendv_subtract').innerHTML + ' 人反对'" title="踩一下"><i><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/rec_subtract.gif" alt="反对" />反对<span id="recommendv_subtract" style="display:none">0</span></i></a>
+<div id="brushtietmp"></div></div>
+
+<div class="mtw mbw">
+<h3 class="pbm mbm bbda"> 主题推荐</h3>
+<ul class="xl xl2 cl"><li><a href="forum.php?mod=viewthread&tid=1776" target="_blank" title="强强强强">强强强强</a></li></ul>
+</div>
+</td>
+</tr>
+<tr id="_postposition698"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=93&amp;tid=1596&amp;reppost=698&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_698" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+<a href="javascript:;" onclick="showWindow('miscreport698', 'misc.php?mod=report&rtype=post&rid=698&tid=1596&fid=93', 'get', -1);return false;">举报</a>
+</p>
+
+<ul id="mgc_post_698_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_698')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="post_1081" ><table id="pid1081" class="plhin" summary="pid1081" cellspacing="0" cellpadding="0">
+<tr>
+<a name="newpost"></a> <td class="pls" rowspan="2">
+<div id="favatar1081" class="pls favatar">
+<div class="pi">
+<div class="authi"><a href="home.php?mod=space&amp;uid=80" target="_blank" class="xw1">666666</a>
+</div>
+</div>
+<div class="p_pop blk bui card_gender_0" id="userinfo1081" style="display: none; margin-top: -11px;">
+<div class="m z">
+<div id="userinfo1081_ma"></div>
+</div>
+<div class="i y">
+<div>
+<strong><a href="home.php?mod=space&amp;uid=80" target="_blank" class="xi2">666666</a></strong>
+<em>当前在线</em>
+</div><dl class="cl">
+<dt>积分</dt><dd><a href="home.php?mod=space&uid=80&do=profile" target="_blank" class="xi2">66445</a></dd>
+</dl><div class="imicn">
+<a href="home.php?mod=space&amp;uid=80&amp;do=profile" target="_blank" title="查看详细资料"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/userinfo.gif" alt="查看详细资料" /></a>
+</div>
+<div id="avatarfeed"><span id="threadsortswait"></span></div>
+</div>
+</div>
+<div>
+<div class="avatar" onmouseover="showauthor(this, 'userinfo1081')"><a href="home.php?mod=space&amp;uid=80" class="avtm" target="_blank"><img src="http://127.0.0.1:8080/uc_server/avatar.php?uid=80&size=middle&ts=1" /></a></div>
+</div>
+<div class="tns xg2"><table cellspacing="0" cellpadding="0"><th><p><a href="home.php?mod=space&uid=80&do=thread&type=thread&view=me&from=space" class="xi2">72</a></p>主题</th><th><p><a href="home.php?mod=space&uid=80&do=thread&type=reply&view=me&from=space" class="xi2">139</a></p>帖子</th><td><p><a href="home.php?mod=space&uid=80&do=profile" class="xi2"><span title="66445">6万</span></a></p>积分</td></table></div>
+
+<p><em><a href="home.php?mod=spacecp&amp;ac=usergroup&amp;gid=15" target="_blank">论坛元老</a></em></p>
+
+
+<p><span id="g_up1081" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!'});"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/star_level3.gif" alt="Rank: 8" /><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/star_level3.gif" alt="Rank: 8" /></span></p>
+<div id="g_up1081_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">论坛元老, 积分 66445, 距离下一级还需 9933554 积分</div></div>
+
+
+<p><span class="pbg2"  id="upgradeprogress_1081" onmouseover="showMenu({'ctrlid':this.id, 'pos':'12!', 'menuid':'g_up1081_menu'});"><span class="pbr2" style="width:2%;"></span></span></p>
+<div id="g_up1081_menu" class="tip tip_4" style="display: none;"><div class="tip_horn"></div><div class="tip_c">论坛元老, 积分 66445, 距离下一级还需 9933554 积分</div></div>
+
+<dl class="pil cl">
+	<dt>积分</dt><dd><a href="home.php?mod=space&uid=80&do=profile" target="_blank" class="xi2">66445</a></dd>
+</dl>
+
+<dl class="pil cl"></dl></div>
+</td>
+<td class="plc">
+<div class="pi">
+<strong>
+<a href="forum.php?mod=redirect&goto=findpost&ptid=1596&pid=1081&amp;fromuid=80"  title="您的朋友访问此链接后，您将获得相应的积分奖励" id="postnum1081" onclick="setCopy(this.href, '帖子地址复制成功');return false;">
+沙发</a>
+</strong>
+<div class="pti">
+<div class="pdbt">
+</div>
+<div class="authi">
+<img class="authicn vm" id="authicon1081" src="static/image/common/online_member.gif" />
+<em id="authorposton1081">发表于 <span title="2024-3-10 08:27:11">1&nbsp;秒前</span></em>
+<span class="pipe">|</span>
+<a href="forum.php?mod=viewthread&amp;tid=1596&amp;page=1&amp;authorid=80" rel="nofollow">只看该作者</a>
+</div>
+</div>
+</div><div class="pct"><div class="pcb">
+<h2>山地车额外</h2>
+<div class="pcbs">
+<table cellspacing="0" cellpadding="0"><tr><td class="t_f" id="postmessage_1081">
+</td></tr></table>
+
+
+</div>
+<div id="comment_1081" class="cm">
+</div>
+
+<div id="post_rate_div_1081"></div>
+</div>
+</div>
+
+</td></tr>
+<tr><td class="plc plm">
+</td>
+</tr>
+<tr id="_postposition1081"></tr>
+<tr>
+<td class="pls"></td>
+<td class="plc" style="overflow:visible;">
+<div class="po hin">
+<div class="pob cl">
+<em>
+<a class="fastre" href="forum.php?mod=post&amp;action=reply&amp;fid=93&amp;tid=1596&amp;repquote=1081&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)">回复</a>
+<a class="editp" href="forum.php?mod=post&amp;action=edit&amp;fid=93&amp;tid=1596&amp;pid=1081&amp;page=1">添加柜台介绍</em>
+
+<p>
+<a href="javascript:;" id="mgc_post_1081" onmouseover="showMenu(this.id)" class="showmenu">使用道具</a>
+</p>
+
+<ul id="mgc_post_1081_menu" class="p_pop mgcmn" style="display: none;">
+</ul>
+<script type="text/javascript" reload="1">checkmgcmn('post_1081')</script>
+</div>
+</div>
+</td>
+</tr>
+<tr class="ad">
+<td class="pls">
+</td>
+<td class="plc">
+</td>
+</tr>
+</table>
+</div><div id="postlistreply" class="pl"><div id="post_new" class="viewthread_table" style="display: none"></div></div>
+</div>
+
+
+<form method="post" autocomplete="off" name="modactions" id="modactions">
+<input type="hidden" name="formhash" value="1ad38efd" />
+<input type="hidden" name="optgroup" />
+<input type="hidden" name="operation" />
+<input type="hidden" name="listextra" value="" />
+<input type="hidden" name="page" value="1" />
+</form>
+
+
+
+<div class="pgs mtm mbm cl">
+<span class="pgb y"><a href="forum.php?mod=forumdisplay&amp;fid=93">返回列表</a></span>
+<a id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="location.href='forum.php?mod=post&action=newthread&fid=93';return false;" href="javascript:;" title="发新帖"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/pn_post.png" alt="发新帖" /></a>
+<a id="post_replytmp" onclick="showWindow('reply', 'forum.php?mod=post&action=reply&fid=93&tid=1596')" href="javascript:;" title="回复"><img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/pn_reply.png" alt="回复" /></a>
+</div>
+
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('10');
+var postmaxchars = parseInt('10000');
+var disablepostctrl = parseInt('0');
+</script>
+
+<div id="f_pst" class="pl bm bmw">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=reply&amp;fid=93&amp;tid=1596&amp;extra=&amp;replysubmit=yes&amp;infloat=yes&amp;handlekey=fastpost" onSubmit="return fastpostvalidate(this)">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="pls">
+<div class="avatar avtm"><img src="http://127.0.0.1:8080/uc_server/avatar.php?uid=80&size=middle&ts=1" /></div></td>
+<td class="plc">
+
+<div style="border:1px solid #C2D5E3;text-align:left;background-color:#E5EDF2;position:relative;top:0px;left:0px;height:px;line-height: px;padding: 2px 8px;">懒得打字嘛，点击右侧快捷回复<select name="select" id="study_fastpost" style="height: 24px;margin: 0px 8px;" onchange="fastpost();" >
+<option selected="selected" value="">选择快捷回复</option>    
+        <option value="[color=Red]楼主发贴辛苦了，谢谢楼主分享！[/color]我觉得[color=blue]1314学习网[/color]是注册对了！">楼主发贴辛苦了，谢谢楼主分享！</option>
+        
+        <option value="楼主太厉害了！楼主，I*老*虎*U！我觉得[color=blue]1314学习网[/color]真是个好地方！">楼主太厉害了！楼主，I*老*虎*U！</option>
+        
+        <option value="这个帖子不回对不起自己！我想我是一天也不能离开[color=blue]1314学习网[/color]。">这个帖子不回对不起自己！</option>
+        
+        <option value="这东西我收了！谢谢楼主！[color=blue]1314学习网[/color]真好！">这东西我收了！谢谢楼主！</option>
+        
+        <option value="我看不错噢 谢谢楼主！[color=blue]1314学习网[/color]越来越好！">我看不错噢 谢谢楼主！</option>
+        
+        <option value="既然你诚信诚意的推荐了，那我就勉为其难的看看吧！[color=blue]1314学习网[/color]不走平凡路。">既然你诚信诚意的推荐了，那我就勉为其难的看看吧！</option>
+        
+        <option value="其实我一直觉得楼主的品味不错！呵呵！[color=blue]1314学习网[/color]太棒了！">其实我一直觉得楼主的品味不错！呵呵！</option>
+        
+        <option value="感谢楼主的无私分享！要想[color=blue]1314学习网[/color]好 就靠你我他">感谢楼主的无私分享！</option>
+        
+        <option value="楼主，大恩不言谢了！[color=blue]1314学习网[/color]是最棒的！">楼主，大恩不言谢了！</option>
+        
+        <option value="楼主，我太崇拜你了！我想我是一天也不能离开[color=blue]1314学习网[/color]。">楼主，我太崇拜你了！</option>
+        
+        <option value="论坛不能没有像楼主这样的人才啊！我会一直支持[color=blue]1314学习网[/color]。">社区不能没有像楼主这样的人才啊！</option>
+    
+</select>
+【右侧内容，后台自定义】
+<script type="text/javascript">
+function fastpost(){
+$("fastpostmessage").value = $("study_fastpost").value;
+}
+</script>
+</div>
+
+<span id="fastpostreturn"></span>
+
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt mtn">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=reply&amp;fid=93&amp;tid=1596" onclick="return switchAdvanceMode(this.href)">高级模式</a>
+</span><script src="static/js/seditor.js?Hf3" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld" onclick="seditor_insertunit('fastpost', '[b]', '[/b]');doane(event);">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor" onclick="showColorBox(this.id, 2, 'fastpost');doane(event);">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg" onclick="seditor_menu('fastpost', 'img');doane(event);">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk" onclick="seditor_menu('fastpost', 'url');doane(event);">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt" onclick="seditor_menu('fastpost', 'quote');doane(event);">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd" onclick="seditor_menu('fastpost', 'code');doane(event);">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml" onclick="showMenu({'ctrlid':this.id,'evt':'click','layer':2});return false;">Smilies</a>
+<script type="text/javascript" reload="1">smilies_show('fastpostsmiliesdiv', 8, 'fastpost');</script>
+<span class="pipe z">|</span><span id="spanButtonPlaceholder">上传</span></div></div>
+<div class="area">
+<textarea rows="6" cols="80" name="message" id="fastpostmessage" onKeyDown="seditor_ctlent(event, 'fastpostvalidate($(\'fastpostform\'))');" tabindex="4" class="pt"></textarea>
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+</div>
+
+<script type="text/javascript">
+var editorid = '';
+var ATTACHNUM = {'imageused':0,'imageunused':0,'attachused':0,'attachunused':0}, ATTACHUNUSEDAID = new Array(), IMGUNUSEDAID = new Array();
+</script>
+
+<input type="hidden" name="posttime" id="posttime" value="1710030432" />
+<div class="upfl hasfsl">
+<table cellpadding="0" cellspacing="0" border="0" id="attach_tblheader" style="display: none;">
+<tr>
+<td>点击附件文件名添加到帖子内容中</td>
+<td class="atds">描述</td>
+<td class="attv">
+阅读权限
+<img src="http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/faq.gif" alt="Tip" class="vm" onmouseover="showTip(this)" tip="阅读权限按由高到低排列，高于或等于选中组的用户才可以阅读" />
+</td>
+<td class="attc"></td>
+</tr>
+</table>
+<div class="fieldset flash" id="attachlist"></div>
+<link rel="stylesheet" type="text/css" href="static/js/webuploader/webuploader.css?Hf3">
+<script src="static/js/mobile/jquery.min.js?Hf3" type="text/javascript"></script>
+<script src="static/js/webuploader/webuploader.min.js?Hf3" type="text/javascript"></script>
+<script src="static/js/webuploader.js?Hf3" type="text/javascript"></script><script type="text/javascript">
+var upload = new SWFUpload({
+upload_url: "http://192.168.1.105:8080/discuz/upload/misc.php?mod=swfupload&action=swfupload&operation=upload&fid=93",
+post_params: {"uid" : "80", "hash":"af4801b679f1f0deb678a956687a3ec7"},
+file_size_limit : "2000",
+file_types : "*.chm;*.pdf;*.zip;*.rar;*.tar;*.gz;*.bzip2;*.gif;*.jpg;*.jpeg;*.png",
+file_types_description : "All Support Formats",
+file_upload_limit : 0,
+file_queue_limit : 0,
+swfupload_preload_handler : preLoad,
+swfupload_load_failed_handler : loadFailed,
+file_dialog_start_handler : fileDialogStart,
+file_queued_handler : fileQueued,
+file_queue_error_handler : fileQueueError,
+file_dialog_complete_handler : fileDialogComplete,
+upload_start_handler : uploadStart,
+upload_progress_handler : uploadProgress,
+upload_error_handler : uploadError,
+upload_success_handler : uploadSuccess,
+upload_complete_handler : uploadComplete,
+button_image_url : "http://192.168.1.105:8080/discuz/upload/source/plugin/mobile/static/image/common/uploadbutton_small.png",
+button_placeholder_id : "spanButtonPlaceholder",
+button_width: 17,
+button_height: 25,
+button_cursor:SWFUpload.CURSOR.HAND,
+button_window_mode: "transparent",
+custom_settings : {
+progressTarget : "attachlist",
+uploadSource: 'forum',
+uploadType: 'attach',
+uploadFrom: 'fastpost'
+},
+debug: false
+});
+</script>
+</div>
+
+<input type="hidden" name="formhash" value="1ad38efd" />
+<input type="hidden" name="usesig" value="1" />
+<input type="hidden" name="subject" value="  " />
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=93" class="y" target="_blank">本版积分规则</a>
+<button type="submit"  onmouseover="checkpostrule('seccheck_fastpost', 'ac=reply');this.onmouseover=null" name="replysubmit" id="fastpostsubmit" class="pn pnc vm" value="replysubmit" tabindex="5"><strong>发表回复</strong></button>
+<label class="lb"><input type="checkbox" name="adddynamic" class="pc" value="1" />回帖并转播</label>
+<label for="fastpostrefresh"><input id="fastpostrefresh" type="checkbox" class="pc" />回帖后跳转到最后一页</label>
+<script type="text/javascript">if(getcookie('fastpostrefresh') == 1) {$('fastpostrefresh').checked=true;}</script>
+</p>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 0, 'forum.php?mod=viewthread&tid=1596', 1);}</script>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+<script type="text/javascript">saveUserdata('forum_'+discuz_uid, '')</script>
+
+<script type="text/javascript">
+function succeedhandle_followmod(url, msg, values) {
+var fObj = $('followmod_'+values['fuid']);
+if(values['type'] == 'add') {
+fObj.innerHTML = '不收听';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=del&fuid='+values['fuid'];
+} else if(values['type'] == 'del') {
+fObj.innerHTML = '收听TA';
+fObj.href = 'home.php?mod=spacecp&ac=follow&op=add&hash=1ad38efd&fuid='+values['fuid'];
+}
+}
+fixed_avatar([698,1081], 1);
+</script>	</div>
+
+<script src="source/plugin/wxqqshare/js/share.js?Hf3" type="text/javascript"></script>
+<script type="text/javascript">
+     setShareInfo({
+         title: "山地车额外 - 服务",
+         summary: "突然还让他很突然回填山地车额外",
+         pic: "http://192.168.1.105:8080/discuz/upload/forum.php?mod=image&aid=1413&size=80x80&key=c135e03f55548701&type=fixwr",
+         url: "http://192.168.1.105:8080/discuz/upload/forum.php?mod=viewthread&tid=1596&pid=1081&page=1&extra=",
+
+     });
+</script>	
+
+
+
+<style>
+#it618_brush_btn{position:fixed;cursor:pointer;border-radius:6px;padding:5px;z-index:8888;width:68px;
+bottom:200px;right:6px;background-color:#fff;border:#fca52e 1px solid;
+}
+#brushabout font,#brushabout{font-size:12px}
+#it618_brush_btn li{text-align:center; }
+.brushreaddiv{border:#ff534c 1px dashed; padding:6px; border-radius:3px; color:#ff534c; font-size:15px; background-color:#fcfcfc; margin:10px 0;}
+.brushreaddiv img{width:19px; vertical-align:middle; margin-left:10px; margin-right:5px; margin-top:-4px}
+</style>
+<ul id="it618_brush_btn" style="display:none">
+<li id="brushimg"></li>
+<li id="brushabout"></li>
+</ul>
+<div id="it618_credits_btn" style="display:none"></div>
+
+
+<script src="source/plugin/it618_brush/js/jquery.js?2a8cf2873b63973b4ff1672ad127d198" type="text/javascript" type=text/javascript></script>
+
+<script src="source/plugin/it618_brush/js/layer/layer.js" type="text/javascript"></script>
+
+
+
+<script>
+IT618_BRUSH(document).ready(function() {
+
+getbrushabout();
+getbrushtie();
+
+});
+
+var brushurl="http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:ajax&page=1";
+
+function getbrushtie(){
+if(IT618_BRUSH("#brushtietmp").length > 0){
+if(IT618_BRUSH("#brushtie").length == 0){
+IT618_BRUSH("#brushtietmp").parent().after('<div id="brushtie" style="padding:10px 15px;background-color:#fff;border:#f3f3f3 1px solid;margin-bottom:10px"></div>');
+}
+
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:showbrush&wap=&istie=1&&type=tie&tid=1596&fid=93&authorid=31", {ac:"it618"},function (data, textStatus){
+IT618_BRUSH("#brushtie").html(data);
+brushlist_get(brushurl);
+}, "html");
+}
+}
+
+var readmode;
+function getbrushabout(){
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:ajax&wap=&type=tie&tid=1596&fid=93&formhash=1ad38efd", {ac:"getbrushabout"},function (data, textStatus){
+
+var tmparr=data.split("it618_split");
+if(tmparr[1]=='ok'){
+if(tmparr[4]!='1'){
+IT618_BRUSH("#it618_brush_btn").show();	
+}
+
+IT618_BRUSH("#brushimg").html(tmparr[2]);
+IT618_BRUSH("#brushabout").html(tmparr[3]);
+readmode=tmparr[5];
+}
+}, "html");	
+}
+
+
+var layer_brush;
+IT618_BRUSH('#it618_brush_btn').click(function(){
+
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:showbrush&type=tie&tid=1596&fid=93&authorid=31", {ac:"it618"},function (data, textStatus){
+var tmparr=data.split("it618_split");
+if(tmparr[0]=='alert'){
+alert(tmparr[1]);
+return;
+}
+
+IT618_BRUSH("#brushtie").html('');
+
+var title='<img src="source/plugin/it618_brush/images/logo.png" style="vertical-align:middle;margin-right:3px; margin-top:-3px;height:18px"> 打赏';
+
+var content='<div style="padding:6px">'+data+'</div>';
+
+layer_brush=layer.open({
+type: 1,
+title: "<div style='float:left'>"+title+"</div>",
+shadeClose: true,
+scrollbar: false,
+shade:  [0.5, "#393D49"],
+maxmin: false,
+area: ["898px","568px"],
+content: content,
+cancel: function(index, layero){ 
+getbrushabout();
+getbrushtie();
+layer.close(layer_brush);
+}    
+});
+
+brushlist_get(brushurl);
+}, "html");
+});
+
+IT618_BRUSH(document).ready(function() {
+IT618_BRUSH('#it618_credits_btn').click(function(){
+var layerindexcredits=layer.open({
+  type: 2,
+  title : "<img src='source/plugin/it618_credits/images/ico.png' style='vertical-align:middle;margin-right:3px; margin-top:-3px'>钱包",
+  scrollbar: false,
+  shade:  [0.5, "#393D49"],
+  maxmin: false,
+  area: ["868px", "588px"],
+  content: "plugin.php?id=it618_credits:index",
+  cancel: function(index, layero){ 
+  	 layer.close(layerindexcredits);
+  }    
+});
+});
+});
+
+var layerpay;
+function showpay(moneyid){
+layerpay=layer.open({
+  type: 2,
+  title : '<img src="source/plugin/it618_brush/images/logo.png" style="vertical-align:middle;margin-right:3px; margin-top:-3px;height:18px"> 打赏付款',
+  scrollbar: false,
+  shade:  [0.5, "#393D49"],
+  maxmin: false,
+  area: ["800px", "398px"],
+  content: "plugin.php?id=it618_brush:showpay&amp;type=tie&amp;tid=1596&amp;fid=93&amp;moneyid="+moneyid,
+  cancel: function(index, layero){ 
+ layer.close(layerpay);
+  }    
+});
+}
+
+
+
+function it618_brush_tabChange(obj,id){
+   var arrayli = obj.parentNode.getElementsByTagName("li");
+  
+   for(i=0;i<arrayli.length;i++)
+   {
+if(obj==arrayli[i])
+{
+ arrayli[i].className = "current";
+ document.getElementById(id+i).style.display='';
+ if(i==1||i==2||i==3)getbrushlist(creditsurl,i);
+}
+else
+{
+ arrayli[i].className = "";
+ document.getElementById(id+i).style.display='none';
+}
+   }
+}
+
+function it618brushalert(brushtr,brushtd,alertv){
+//IT618_BRUSH("#"+brushtr).show();
+//IT618_BRUSH("#"+brushtd).html(alertv);
+alert(alertv);
+}
+
+function brushpay(brushjfid,moneyid,moneyname){
+if(!confirm("确定要打赏"+moneyname+"？")){
+return;
+}
+
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:ajax&type=tie&tid=1596&fid=93&brushjfid="+brushjfid+"&moneyid="+moneyid+"&formhash=1ad38efd", {ac:"brush"},function (data, textStatus){
+var tmparr=data.split("it618_split");
+
+it618_brush_tabChange(document.getElementById("brushmenuli0"),'brush_bd');
+
+if(tmparr[0]=="ok"){
+
+alert(tmparr[1]);
+
+if(readmode>1){
+location.reload();
+}else{
+layer.close(layer_brush);
+getbrushtie();
+}
+
+}else if(tmparr[0]=="iscredits"){
+if(confirm(tmparr[1])){
+if(brushjfid>0){
+var jfczurl="";
+jfczurl=jfczurl.replace("1",brushjfid);
+parent.location.href=jfczurl;
+}else{
+parent.location.href="";
+}
+}
+}else{
+
+alert(data);
+
+}
+}, "html");
+}
+
+function brush(){
+var brushjfid=document.getElementById("brushjfid").value;
+var brushmoney=document.getElementById("brushmoney").value;
+var moneyname=document.getElementById("moneyname").value;
+var tmpnamearr=moneyname.split(",");
+var tmpname,type="tie";
+
+if(isNaN(brushmoney)||brushmoney==''){
+alert("抱歉，金额必须是数字类型！");
+document.getElementById("brushmoney").focus();
+return;
+}
+
+if(tmpnamearr.length>1){
+tmpname=brushmoney+tmpnamearr[brushjfid];
+}else{
+tmpname=brushmoney+tmpnamearr[0];
+}
+
+if(type=='tie'&&brushjfid==0){
+showpay('_'+brushmoney);
+return;
+}
+
+if(!confirm("确定要打赏"+tmpname+"？")){
+return;
+}
+
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:ajax&type=tie&tid=1596&fid=93&brushjfid="+brushjfid+"&brushmoney="+brushmoney+"&formhash=1ad38efd", {ac:"brush"},function (data, textStatus){
+var tmparr=data.split("it618_split");
+
+it618_brush_tabChange(document.getElementById("brushmenuli0"),'brush_bd');
+
+if(tmparr[0]=="ok"){
+
+alert(tmparr[1]);
+
+if(readmode>1){
+location.reload();
+}else{
+layer.close(layer_brush);
+getbrushtie();
+}
+
+}else if(tmparr[0]=="iscredits"){
+if(confirm(tmparr[1])){
+if(brushjfid>0){
+var jfczurl="";
+jfczurl=jfczurl.replace("1",brushjfid);
+parent.location.href=jfczurl;
+}else{
+parent.location.href="";
+}
+}
+}else{
+
+alert(data);
+
+}
+}, "html");
+}
+
+function isInteger(obj) {
+return typeof obj==="number"&&obj%1 === 0;
+}
+
+function savebrushset(){
+var brushreadmode=document.getElementById("brushreadmode").value;
+var brushmoneys=document.getElementById("brushmoneys").value;
+var brush_isok=document.getElementById("brush_isok").value;
+
+var tmpmoneysarr=brushmoneys.split(",");
+
+if(brush_isok==1){
+for(var i=0;i<tmpmoneysarr.length;i++){
+if(isNaN(tmpmoneysarr[i])){
+alert("抱歉，金额必须是数字类型！");
+return;
+}
+}
+}else{
+for(var i=0;i<tmpmoneysarr.length;i++){
+if(!(Math.floor(tmpmoneysarr[i])==tmpmoneysarr[i])){
+alert("抱歉，数值只能是大于0的整数！");
+return;
+}
+}
+}
+
+IT618_BRUSH.get("http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_brush:ajax&type=tie&tid=1596&fid=93&brushreadmode="+brushreadmode+"&brushmoneys="+brushmoneys+"&formhash=1ad38efd", {ac:"savebrushset"},function (data, textStatus){
+var tmparr=data.split("it618_split");
+
+if(tmparr[0]=="ok"){
+
+alert(tmparr[1]);
+
+}else{
+
+alert(data);
+
+}
+}, "html");
+}
+
+function brushchat(sendText){
+IT618_CHAT(".tis-sendText").val('it618brush'+sendText);
+IT618_CHAT(".tis-sendBtn").click();
+}
+
+function brushlist_get(brushurltmp){
+var brushjfid=document.getElementById("brushjfid").value;
+
+IT618_BRUSH("#brushlist").html('<tr><td colspan="2" style="border:none;text-align:left"><img src="source/plugin/it618_brush/images/loading.gif"></td></tr>');
+IT618_BRUSH.get(brushurltmp+"&type=tie&tid=1596&wap=&brushjfid="+brushjfid+"&formhash=1ad38efd", {ac:"brushlist_get"},function (data, textStatus){
+var tmparr=data.split("it618_split");
+IT618_BRUSH("#brushlist").html(tmparr[0]);
+
+IT618_BRUSH("#brushpage").html(tmparr[1]);
+IT618_BRUSH("#brushsum").html(tmparr[2]);
+IT618_BRUSH("#spanmoneytype").html(tmparr[3]);
+if(tmparr[4]!=''){
+IT618_BRUSH("#brushabout").html(tmparr[4]);
+}
+}, "html");
+}
+
+var creditsurl="http://192.168.1.105:8080/discuz/upload/plugin.php?id=it618_credits:ajax";
+function getbrushlist(creditsurltmp,type){
+IT618_BRUSH("#mybrushlist"+type).html('<tr><td colspan="2" style="border:none"><img src="source/plugin/it618_brush/images/loading.gif"></td></tr>');
+IT618_BRUSH.get(creditsurltmp+"&wap=&formhash=1ad38efd", {ac:'getbrushlist',ac1:type},function (data, textStatus){
+var tmparr=data.split("it618_split");
+
+IT618_BRUSH("#mybrushlist"+type).html(tmparr[0]);
+IT618_BRUSH("#mybrushpage"+type).html(tmparr[1]);
+
+}, "html");	
+}
+</script>
+
+<script>
+$('v_forums').innerHTML += '<h3 class="mbn pbn bbda xg1"></h3>';
+$('v_forums').innerHTML += '<h3 class="mbn pbn bbda xg1">我爱逛的版块</h3>';
+$('v_forums').innerHTML += '<ul class="xl xl1">';$('v_forums').innerHTML += "<li><a href=\"forum.php?mod=forumdisplay&amp;fid=2\">项目</a></li>";
+$('v_forums').innerHTML += "<li><a href=\"forum.php?mod=forumdisplay&amp;fid=93\">服务</a></li>";
+$('v_forums').innerHTML += "<li><a href=\"forum.php?mod=forumdisplay&amp;fid=91\">发现</a></li>";
+$('v_forums').innerHTML += "<li><a href=\"forum.php?mod=forumdisplay&amp;fid=1\">软件外包交易所</a></li>";
+
+$('v_forums').innerHTML += '</ul>';
+</script>
+
+<span id="guessLike"></span>
+<script src="source/plugin/guessulike/template/guessfloat.js?Hf3" type="text/javascript" type="text/javascript"></script>
+<script defer="defer" src="http://192.168.1.105:8080/discuz/upload/plugin.php?id=zhiwu55com_autoreply:hzw_cron"></script><div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://esdo.vicp.net/" target="_blank">DiscuzX</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2024-3-10 08:27<span id="debuginfo">
+, Processed in 0.604151 second(s), 41 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.4</em></p>
+<p class="xs0">Copyright &copy; 2001-2021, Tencent Cloud.</p>
+</div><script type="text/javascript">
+var invisiblestatus = '在线';
+var loginstatusobj = $('loginstatusid');
+if(loginstatusobj != undefined && loginstatusobj != null) loginstatusobj.innerHTML = invisiblestatus;
+</script>
+</div>
+<script src="home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1710030432" type="text/javascript"></script>
+<script src="home.php?mod=spacecp&ac=follow&op=checkfeed&rand=1710030432" type="text/javascript"></script>
+<script src="home.php?mod=misc&ac=sendmail&rand=1710030432" type="text/javascript"></script>
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<script type="text/javascript">noticeTitle();</script>
+<script src="static/js/html5notification.js?Hf3" type="text/javascript"></script>
+<script type="text/javascript">
+var h5n = new Html5notification();
+if(h5n.issupport()) {
+h5n.shownotification('notice_system', 'http://192.168.1.105:8080/discuz/upload/home.php?mod=space&do=notice&view=system', 'http://127.0.0.1:8080/uc_server/avatar.php?uid=80&size=small&ts=1', '系统提醒 (54)', '有新的提醒，快去看看吧');
+h5n.shownotification('notice_mypost', 'http://192.168.1.105:8080/discuz/upload/home.php?mod=space&do=notice&view=mypost', 'http://127.0.0.1:8080/uc_server/avatar.php?uid=80&size=small&ts=1', '我的帖子 (28)', '有新的提醒，快去看看吧');
+}
+</script>
+
+<div id="scrolltop">
+<span><a href="forum.php?mod=post&amp;action=reply&amp;fid=93&amp;tid=1596&amp;extra=&amp;page=1" onclick="showWindow('reply', this.href)" class="replyfast" title="快速回复"><b>快速回复</b></a></span>
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum.php?mod=forumdisplay&amp;fid=93" hidefocus="true" class="returnlist" title="返回列表"><b>返回列表</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+</body>
+</html>

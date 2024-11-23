@@ -1,0 +1,29 @@
+
+.BgSexMan
+{
+	background-image:url(base/images/2x/sexman.png);
+}
+
+.BgSexManS
+{
+	background-image:url(base/images/2x/sexmanS.png);
+}
+
+.BgSexWoman
+{
+	background-image:url(base/images/2x/sexwoman.png);
+}
+
+.BgSexWomanS
+{
+	background-image:url(base/images/2x/sexwomanS.png);
+}
+
+
+.defaultBg
+{
+	background-image:url(images/delete9.png);
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-color:#868686;
+}

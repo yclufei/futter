@@ -1,0 +1,128 @@
+
+<html>
+	<head>
+		<base href="D:/GOA/res/"/>
+		<link href="base/html/base.css" rel="stylesheet" type="text/css"/>
+		<link href="base/html/middle.css" rel="stylesheet" type="text/css"/>
+		<link href="manager/middle/html/main.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body>
+
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" bgcolor="#999999">
+			<tr id="topmainmenu" style="display:none;">
+				<td height="30" colspan="2" valign="top">
+					<!-#include file="manager/middle/area/html/area_mainmenu.html"->
+				</td>
+			</tr>
+			<tr>
+				<td bgcolor="#666666"></td>
+				<td height="1" bgcolor="#666666">
+						<div id="pop" class="posA box100p" style="display:none">
+							<div style="width:60%;height:70%;border:8px solid #666666;margin-left:10%;">		
+									<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" bgcolor="#666666">
+										<tr>
+											<td>
+												
+													<!-#include file="manager/middle/share/html/pop_list.html"-> 
+												
+													<!-#include file="manager/middle/share/html/pop_treelist.html"-> 
+													
+													<!-#include file="manager/middle/share/html/pop_objectlist.html"-> 
+													
+											</td>
+										</tr>
+										<tr>
+											<td height="30" align="right">
+												<a class="linkbutton" style="float:right" id="cancelpop">取消</a>
+											</td>
+										</tr>
+									</table>	
+							</div>	
+						</div>
+				</td>
+			</tr>
+			<tr>
+				<td width="22%" bgcolor="#666666" id="lefttd" style="display:none">
+					
+					<div id="leftreelist" class="OverflowScroll" style="width:100%;height:100%;">
+						<div id="leftreescrolllist">
+							<div id="leftreelistparent" style="padding:5px;">
+								
+								<div style="display:none">
+									<div id="title" class="submenuleft">1</div>
+									<div id="itemchilds" class="treechild"></div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					
+				</td>
+				<td valign="top" align="center" style="overflo:hidden">
+					
+						
+					<div id="topmainscroll" class="posR box100p" style="background-color:#f6f6f6;z-index:1;">
+						
+						
+						<div id="ScrollViewParent" class="ScrollViewParent" style="z-index:1;">
+										 
+							<!-#include file="manager/middle/share/html/chatFrame.html"-> 
+										
+							<!-#include file="manager/middle/share/html/relationupdate.html"-> 
+										
+							<!-#include file="manager/middle/share/html/relationadd.html"-> 
+												
+							<!-#include file="manager/middle/share/html/configadd.html"->	
+													
+							<!-#include file="manager/middle/share/html/configupdate.html"-> 	
+							
+							<!-#include file="manager/middle/share/html/config.html"->							
+																	
+							<!-#include file="manager/middle/share/html/objectattradd.html"-> 
+										
+							<!-#include file="manager/middle/share/html/objectdescadd.html"-> 
+										
+							<!-#include file="manager/middle/share/html/classattradd.html"-> 
+							
+							<!-#include file="manager/middle/share/html/treeupdate.html"-> 
+							
+							<!-#include file="manager/middle/share/html/classattrupdate.html"-> 
+										
+							<!-#include file="manager/middle/share/html/objectattrupdate.html"-> 
+										
+							<!-#include file="manager/middle/share/html/objectdescupdate.html"-> 
+										
+							<!-#include file="manager/middle/share/html/treeselect.html"-> 
+										
+							<!-#include file="manager/middle/share/html/treeadd.html"-> 
+										
+							<!-#include file="manager/middle/share/html/classattr.html"-> 
+								
+							<!-#include file="manager/middle/share/html/treelist.html"-> 
+										
+							<!-#include file="manager/middle/share/html/treedelete.html"-> 
+										
+							<!-#include file="manager/middle/share/html/first.html"-> 
+			
+							<!-#include file="manager/middle/share/html/loginFrame.html"-> 
+							
+						</div>
+						
+						
+					</div>
+					
+						
+						
+						
+				</td>
+			</tr>
+		</table>
+
+		<div id="frametemplete" style="position:absolute;z-index:1;display:none;">
+
+			<!-#include file="base/middle/middle.html"-> 
+
+		</div>
+		
+	</body>
+</html>

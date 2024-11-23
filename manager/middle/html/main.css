@@ -1,0 +1,201 @@
+
+.myinput
+{
+	height:20px;
+	border:1px solid #666666;
+	outline:none;
+	padding:2px;
+}
+a.submenu
+{
+	display:block;
+	width:80%;
+	text-align:right;
+	padding:2px;
+	font-size:16px;
+	padding-right:20px;
+	color:#ffffff;
+	margin-top:3px;
+}
+a.submenu:active
+{
+	color:#333333;
+	background-color:#ffffff;
+}
+.submenuleft
+{
+	color:#ffffff;
+	padding:2px;
+	font-size:14px;
+	margin-top:3px;
+}
+.submenuleft div
+{
+	color:#ffffff;
+}
+.submenuleft div a
+{
+	color:#ffffff;
+}
+a.submenuleft
+{
+	height:24px;
+	display:table-row;
+	padding:2px;
+	font-size:14px;
+	margin-top:3px;
+}
+a.submenuleft:active
+{
+	color:#ffffff;
+	background-color:#ffffff;
+}
+textarea
+{
+	font-size:14px;
+}
+ 
+img
+{
+	border:0px;
+}
+
+.frame
+{
+	display:none;
+	width:100%;
+	height:100%;
+	position:relative;
+}
+
+a 
+{
+	color:#4D5254;
+	text-decoration:none ;
+	font-size:14px;
+	padding:3px;
+}
+
+a.navMenuImgItem
+{
+	width:100%;
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	vertical-align:middle;
+	padding-top:11px;
+	font-weight:bold;
+	font-size:14px;
+	width:14%;
+	padding-top:12px;
+}
+a.bt_system
+{
+	display:inline-block;
+	width:18px;
+	height:18px;
+	background-position:0px 0px; 
+}
+a.bt_system:active 
+{ 
+	background-position:-24px 0px; 
+}
+a.bt_system:active 
+{ 
+	background-position:-48px 0px; 
+}
+.mainmenu
+{
+	width:100%;
+	z-index:100;
+}
+a.mainMenuItem
+{
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	color:#ffffff;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:16px;
+}
+a.navMenuItem
+{
+	width:21%;
+	display:inline-block;
+	height:100%;
+	text-align:center;
+	color:#ffffff;
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:14px;
+}
+.nav
+{
+	background-color:#333333;
+	width:100%;
+	height:40px;
+	display:none;
+}
+.navtitle
+{
+font-size:34px;
+text-align:center;
+color:#333333;
+}
+
+
+.content
+{
+	background-image:url(jiakao/public/images/sh_top.png);
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	background-color:#F9FeFc;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+.content_transfer
+{
+	color:#ffffff;
+	background-image:url(jiakao/public/images/sh_top.png);
+	background-repeat:repeat-x;
+	background-position:center  bottom;
+	height:100%;
+	width:100%;
+	overflow:hidden;
+}
+	
+.ScrollViewParent
+{
+	overflow:visible;
+	height:100%;
+}
+.mydiv { 
+	width:200px;height:200px;margin:20px;
+background: url(jiakao/public/images/middle_0.png) top left no-repeat, 
+url(jiakao/public/images/middle_0.png) bottom left no-repeat, 
+url(jiakao/public/images/middle_0.png) center center repeat-y; 
+}
+.fanzhuan
+{
+-webkit-transform:scaleY(-1);	
+}
+.round1
+{
+	width:200px;
+	height:200px;
+	margin:20px;	
+	background: 
+	url(jiakao/public/images/bg_10_top_left.png) top left no-repeat, 
+	url(jiakao/public/images/round_1_rt.png) top right no-repeat, 	
+	
+	url(jiakao/public/images/round_1_rl.png) bottom left no-repeat, 
+	url(jiakao/public/images/round_1_rb.png) bottom right no-repeat, 
+		
+	url(jiakao/public/images/acnl.png) center left repeat-y, 
+	url(jiakao/public/images/acnr.png) center right repeat-y,	
+	
+	url(jiakao/public/images/acnt.png) top center repeat-x, 
+	url(jiakao/public/images/acnb.png) bottom center repeat-x;
+}
